@@ -1,9 +1,8 @@
 # Sistema de Recomendação de Espécies Nativas para Reflorestamento e Arborização Urbana (ODS 15)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Etapa%202%20Conclu%C3%ADda-brightgreen?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Universidade-Presbiteriana%20Mackenzie-red?style=for-the-badge" alt="Mackenzie">
-  <img src="https://img.shields.io/badge/Curso-Ci%C3%AAncia%20de%20Dados%20%26%20IA-blue?style=for-the-badge" alt="Curso">
+  <img src="https://img.shields.io/badge/Curso-Banco%20de%20Dados%20%26%20IA-blue?style=for-the-badge" alt="Curso">
   <img src="https://img.shields.io/badge/ONU-ODS%2015%20Vida%20Terrestre-darkgreen?style=for-the-badge" alt="ODS 15">
   <img src="https://img.shields.io/badge/Modelagem-H%C3%ADbrida%20(CBF%20%2B%20Implicit%20CF)-orange?style=for-the-badge" alt="Modelagem">
 </p>
@@ -15,12 +14,12 @@
 
 ## 👥 Integrantes do Grupo
 
-| Nome | TIA | GitHub |
-| :--- | :---: | :---: |
-| **Fernanda Pauli de Oliveira** | 10736757 | [@Fernanda-Pauli](https://github.com/Fernanda-Pauli) |
-| **Henrique Sarmento** | 10738262 | [@henri-sarmento](https://github.com/henri-sarmento) |
-| **Milena Dias Gouveia** | 10746541 | [@milenadgouveia](https://github.com/milenadgouveia) |
-| **Nicolly Falcão da Silva** | 10746134 | [@Nicollyfalcao](https://github.com/Nicollyfalcao) |
+| Nome | Número |
+| :--- | :---: |
+| **Fernanda Pauli de Oliveira** | 10736757 | 
+| **Henrique Sarmento** | 10738262 | 
+| **Milena Dias Gouveia** | 10746541 | 
+| **Nicolly Falcão da Silva** | 10746134 |
 
 ---
 
@@ -93,8 +92,6 @@ Espécies que violem restrições físicas eliminatórias (ex.: planta de solo a
 ---
 
 ### 2.2 Fase 2 — Filtragem Colaborativa com Feedback Implícito (Nicho Efetivo)
-> **Resposta ao Feedback da Banca:**  
-> A banca solicitou esclarecer como se define uma *interação* entre terreno e espécie no contexto botânico. Na ausência de usuários humanos avaliando plantas com notas explícitas, modelamos o ecossistema como um problema formal de **Feedback Implícito (*Implicit Feedback*)**:
 
 * **Entidade "Usuário" ($u$):** Unidades amostrais físicas de campo — as **parcelas padronizadas de $20 \times 20\text{ m}$ do Inventário Florestal Nacional (IFN)** e células de grade ecológica (*grids*) com coletas integradas do GBIF.
 * **Entidade "Item" ($i$):** Espécies arbóreas e vegetais nativas catalogadas no Flora e Funga do Brasil.
@@ -104,14 +101,30 @@ Espécies que violem restrições físicas eliminatórias (ex.: planta de solo a
 
 Seguindo o formalismo de **Hu, Koren e Volinsky (2008)**, decompõe-se a observação em:
 1. **Preferência Binária ($p_{ui}$):**
-   $$p_{ui} = \begin{cases} 1, & \text{se } r_{ui} > 0 \\ 0, & \text{se } r_{ui} = 0 \end{cases}$$
+
+   $$
+   p_{ui} = \begin{cases} 1, & \text{se } r_{ui} > 0 \\ 0, & \text{se } r_{ui} = 0 \end{cases}
+   $$
+
 2. **Confiança da Observação ($c_{ui}$):**
-   $$c_{ui} = 1 + \alpha \cdot r_{ui}$$
+
+   $$
+   c_{ui} = 1 + \alpha \cdot r_{ui}
+   $$
+
    *(onde $\alpha$ calibra a intensidade da evidência de sobrevivência).*
+
 3. **Predição por Fatores Latentes:**
-   $$\hat{p}_{ui} = \mathbf{x}_u^T \mathbf{y}_i$$
+
+   $$
+   \hat{p}_{ui} = \mathbf{x}_u^T \mathbf{y}_i
+   $$
+
 4. **Otimização ALS (Mínimos Quadrados Alternados):**
-   $$\mathcal{L}_{ALS} = \sum_{u, i} c_{ui} \left( p_{ui} - \mathbf{x}_u^T \mathbf{y}_i \right)^2 + \lambda \left( \sum_u \|\mathbf{x}_u\|_2^2 + \sum_i \|\mathbf{y}_i\|_2^2 \right)$$
+
+   $$
+   \mathcal{L}_{\text{ALS}} = \sum_{u, i} c_{ui} \left( p_{ui} - \mathbf{x}_u^T \mathbf{y}_i \right)^2 + \lambda \left( \sum_u \|\mathbf{x}_u\|_2^2 + \sum_i \|\mathbf{y}_i\|_2^2 \right)
+   $$
 
 Essa camada captura dimensões ecológicas latentes (simbioses micorrízicas no solo, complementariedade de estratos e facilitação sucessional), promovendo um ranqueamento que privilegia espécies que prosperam em conjunto na natureza.
 
