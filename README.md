@@ -7,8 +7,7 @@
   <img src="https://img.shields.io/badge/Modelagem-H%C3%ADbrida%20(CBF%20%2B%20Implicit%20CF)-orange?style=for-the-badge" alt="Modelagem">
 </p>
 
-> **Projeto Aplicado III — Tecnologia em Ciência de Dados e Inteligência Artificial**  
-> **Faculdade de Computação e Informática (FCI) — Universidade Presbiteriana Mackenzie**
+> **Projeto Aplicado III — Sistemas de Recomendação**  
 
 ---
 
