@@ -1,0 +1,18 @@
+scientific_name,synonym_of,family,life_form,biome,substrate,successional_stage,ph_min,ph_max,drainage_req,drought_tolerance,light_req,accepted_name
+Schinus terebinthifolia,Schinus terebinthifolia,Anacardiaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Pioneira,5.0,7.5,Bem drenado;Úmido,Média,Sol pleno,Schinus terebinthifolia
+Trema micrantha,Trema micrantha,Cannabaceae,Árvore,Mata Atlântica;Cerrado;Amazônia,Terrícola,Pioneira,4.5,7.0,Bem drenado,Alta,Sol pleno,Trema micrantha
+Cecropia pachystachya,Cecropia pachystachya,Urticaceae,Árvore,Mata Atlântica;Cerrado;Pantanal,Terrícola,Pioneira,4.5,6.8,Úmido;Encharcado,Baixa,Sol pleno,Cecropia pachystachya
+Mimosa scabrella,Mimosa scabrella,Fabaceae,Árvore,Mata Atlântica,Terrícola,Pioneira,4.0,6.5,Bem drenado,Média,Sol pleno,Mimosa scabrella
+Croton floribundus,Croton floribundus,Euphorbiaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Pioneira,5.0,7.0,Bem drenado,Alta,Sol pleno,Croton floribundus
+Inga vera,Inga vera,Fabaceae,Árvore,Mata Atlântica;Cerrado;Amazônia,Terrícola,Secundária Inicial,5.0,7.0,Úmido;Encharcado,Baixa,Meia sombra;Sol pleno,Inga vera
+Casearia sylvestris,Casearia sylvestris,Salicaceae,Árvore,Mata Atlântica;Cerrado;Amazônia,Terrícola,Secundária Inicial,4.5,7.2,Bem drenado;Úmido,Alta,Sol pleno;Meia sombra,Casearia sylvestris
+Guazuma ulmifolia,Guazuma ulmifolia,Malvaceae,Árvore,Mata Atlântica;Cerrado;Caatinga,Terrícola,Secundária Inicial,5.5,7.5,Bem drenado,Alta,Sol pleno,Guazuma ulmifolia
+Cedrela fissilis,Cedrela fissilis,Meliaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Secundária Tardia,5.5,7.0,Bem drenado;Fértil,Média,Sol pleno;Meia sombra,Cedrela fissilis
+Handroanthus heptaphyllus,Handroanthus heptaphyllus,Bignoniaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Secundária Tardia,5.5,7.2,Bem drenado,Alta,Sol pleno,Handroanthus heptaphyllus
+Peltophorum dubium,Peltophorum dubium,Fabaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Secundária Inicial,5.0,7.0,Bem drenado,Média,Sol pleno,Peltophorum dubium
+Myrsine coriacea,Myrsine coriacea,Primulaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Pioneira,4.2,6.5,Bem drenado;Úmido,Média,Sol pleno,Myrsine coriacea
+Euterpe edulis,Euterpe edulis,Arecaceae,Palmeira,Mata Atlântica,Terrícola,Clímax,4.5,6.5,Úmido,Baixa,Sombra;Meia sombra,Euterpe edulis
+Cariniana legalis,Cariniana legalis,Lecythidaceae,Árvore,Mata Atlântica,Terrícola,Clímax,5.0,6.8,Bem drenado;Profundo,Média,Meia sombra;Sol pleno,Cariniana legalis
+Balfourodendron riedelianum,Balfourodendron riedelianum,Rutaceae,Árvore,Mata Atlântica;Cerrado,Terrícola,Clímax,5.5,7.5,Bem drenado;Fértil,Média,Meia sombra,Balfourodendron riedelianum
+Eugenia uniflora,Eugenia uniflora,Myrtaceae,Arbusto/Árvore,Mata Atlântica;Cerrado,Terrícola,Secundária Tardia,5.0,7.0,Bem drenado,Média,Sol pleno;Meia sombra,Eugenia uniflora
+Psidium cattleyanum,Psidium cattleyanum,Myrtaceae,Arbusto/Árvore,Mata Atlântica,Terrícola,Secundária Inicial,4.5,6.8,Úmido;Bem drenado,Média,Sol pleno;Meia sombra,Psidium cattleyanum

@@ -1,0 +1,711 @@
+conglomerado_id,plot_id,bioma,latitude,longitude,textura_solo,ph_solo,saturacao_v_porc,precipitacao_anual_mm,drenagem_solo,scientific_name,individuos_vivos
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.2573,-42.90135,Média,5.88,28.6,1271,Bem drenado,Myrsine coriacea,1
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.25591,-42.8913,Média,5.88,28.6,1271,Bem drenado,Euterpe edulis,2
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.25548,-42.89373,Média,5.88,28.6,1271,Bem drenado,Inga vera,2
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.25576,-42.88955,Média,5.88,28.6,1271,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.25577,-42.88502,Média,5.88,28.6,1271,Bem drenado,Casearia sylvestris,1
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.25543,-42.89431,Média,5.88,28.6,1271,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.24865,-42.90039,Média,5.88,28.6,1271,Bem drenado,Psidium cattleyanum,6
+CONGLOM_001,CONGLOM_001_SUB1,Mata Atlântica,-24.23887,-42.88832,Média,5.88,28.6,1271,Bem drenado,Cedrela fissilis,1
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.25841,-42.89361,Média,5.88,28.6,1271,Bem drenado,Trema micrantha,1
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.25614,-42.89123,Média,5.88,28.6,1271,Bem drenado,Schinus terebinthifolia,4
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.24985,-42.88985,Média,5.88,28.6,1271,Bem drenado,Croton floribundus,1
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.25696,-42.89583,Média,5.88,28.6,1271,Bem drenado,Myrsine coriacea,4
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.2603,-42.88879,Média,5.88,28.6,1271,Bem drenado,Eugenia uniflora,5
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.25829,-42.90027,Média,5.88,28.6,1271,Bem drenado,Psidium cattleyanum,1
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.24859,-42.8928,Média,5.88,28.6,1271,Bem drenado,Cedrela fissilis,4
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.25095,-42.89751,Média,5.88,28.6,1271,Bem drenado,Cariniana legalis,2
+CONGLOM_001,CONGLOM_001_SUB2,Mata Atlântica,-24.24528,-42.89259,Média,5.88,28.6,1271,Bem drenado,Mimosa scabrella,4
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.24923,-42.89248,Média,5.88,28.6,1271,Bem drenado,Croton floribundus,3
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25581,-42.89587,Média,5.88,28.6,1271,Bem drenado,Schinus terebinthifolius,3
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25483,-42.90128,Média,5.88,28.6,1271,Bem drenado,Cariniana legalis,2
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25663,-42.89608,Média,5.88,28.6,1271,Bem drenado,Euterpe edulis,5
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25405,-42.89198,Média,5.88,28.6,1271,Bem drenado,Peltophorum dubium,2
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25711,-42.89682,Média,5.88,28.6,1271,Bem drenado,Psidium cattleyanum,3
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.24303,-42.89505,Média,5.88,28.6,1271,Bem drenado,Inga uruguensis,2
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25609,-42.89685,Média,5.88,28.6,1271,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.26322,-42.88797,Média,5.88,28.6,1271,Bem drenado,Mimosa scabrella,1
+CONGLOM_001,CONGLOM_001_SUB3,Mata Atlântica,-24.25699,-42.8984,Média,5.88,28.6,1271,Bem drenado,Cedrela fissilis,1
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.24293,-42.90399,Média,5.88,28.6,1271,Bem drenado,Myrsine coriacea,2
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.25383,-42.89773,Média,5.88,28.6,1271,Bem drenado,Cecropia pachystachya,3
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.25345,-42.88728,Média,5.88,28.6,1271,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.24667,-42.89623,Média,5.88,28.6,1271,Bem drenado,Eugenia uniflora,10
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.25262,-42.90027,Média,5.88,28.6,1271,Bem drenado,Casearia sylvestris,4
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.25484,-42.89,Média,5.88,28.6,1271,Bem drenado,Handroanthus heptaphyllus,3
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.24832,-42.89126,Média,5.88,28.6,1271,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.25062,-42.90663,Média,5.88,28.6,1271,Bem drenado,Inga vera,1
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.24691,-42.88992,Média,5.88,28.6,1271,Bem drenado,Croton floribundus,5
+CONGLOM_001,CONGLOM_001_SUB4,Mata Atlântica,-24.2434,-42.8923,Média,5.88,28.6,1271,Bem drenado,Tabebuia heptaphylla,1
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.13363,-49.10583,Média,5.69,34.3,2195,Encharcado,Inga vera,2
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.12795,-49.10044,Média,5.69,34.3,2195,Encharcado,Handroanthus heptaphyllus,2
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.12872,-49.10228,Média,5.69,34.3,2195,Encharcado,Psidium cattleyanum,1
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.12198,-49.10403,Média,5.69,34.3,2195,Encharcado,Schinus terebinthifolius,1
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.12661,-49.10979,Média,5.69,34.3,2195,Encharcado,Balfourodendron riedelianum,3
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.13529,-49.09676,Média,5.69,34.3,2195,Encharcado,Guazuma ulmifolia,2
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.12876,-49.09829,Média,5.69,34.3,2195,Encharcado,Myrsine coriacea,3
+CONGLOM_002,CONGLOM_002_SUB1,Mata Atlântica,-25.13838,-49.1046,Média,5.69,34.3,2195,Encharcado,Peltophorum dubium,6
+CONGLOM_002,CONGLOM_002_SUB2,Mata Atlântica,-25.13345,-49.10335,Média,5.69,34.3,2195,Encharcado,Casearia sylvestris,2
+CONGLOM_002,CONGLOM_002_SUB2,Mata Atlântica,-25.14029,-49.1017,Média,5.69,34.3,2195,Encharcado,Inga uruguensis,1
+CONGLOM_002,CONGLOM_002_SUB2,Mata Atlântica,-25.13444,-49.09341,Média,5.69,34.3,2195,Encharcado,Schinus terebinthifolius,2
+CONGLOM_002,CONGLOM_002_SUB2,Mata Atlântica,-25.13383,-49.10628,Média,5.69,34.3,2195,Encharcado,Inga vera,1
+CONGLOM_002,CONGLOM_002_SUB3,Mata Atlântica,-25.12393,-49.0971,Média,5.69,34.3,2195,Encharcado,Handroanthus heptaphyllus,3
+CONGLOM_002,CONGLOM_002_SUB3,Mata Atlântica,-25.13446,-49.10786,Média,5.69,34.3,2195,Encharcado,Croton floribundus,6
+CONGLOM_002,CONGLOM_002_SUB3,Mata Atlântica,-25.13113,-49.09995,Média,5.69,34.3,2195,Encharcado,Balfourodendron riedelianum,1
+CONGLOM_002,CONGLOM_002_SUB3,Mata Atlântica,-25.13764,-49.09857,Média,5.69,34.3,2195,Encharcado,Peltophorum dubium,2
+CONGLOM_002,CONGLOM_002_SUB4,Mata Atlântica,-25.12924,-49.10279,Média,5.69,34.3,2195,Encharcado,Trema micrantha,3
+CONGLOM_002,CONGLOM_002_SUB4,Mata Atlântica,-25.13299,-49.09616,Média,5.69,34.3,2195,Encharcado,Peltophorum dubium,2
+CONGLOM_002,CONGLOM_002_SUB4,Mata Atlântica,-25.12938,-49.10433,Média,5.69,34.3,2195,Encharcado,Schinus terebinthifolius,1
+CONGLOM_002,CONGLOM_002_SUB4,Mata Atlântica,-25.13644,-49.10208,Média,5.69,34.3,2195,Encharcado,Psidium cattleyanum,3
+CONGLOM_002,CONGLOM_002_SUB4,Mata Atlântica,-25.12734,-49.08914,Média,5.69,34.3,2195,Encharcado,Casearia sylvestris,1
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.55895,-47.01199,Média,4.61,51.1,1274,Bem drenado,Croton floribundus,7
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.55732,-47.01084,Média,4.61,51.1,1274,Bem drenado,Inga uruguensis,1
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.55247,-47.00689,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolius,2
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.55147,-47.01196,Média,4.61,51.1,1274,Bem drenado,Trema micrantha,7
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.5625,-47.0136,Média,4.61,51.1,1274,Bem drenado,Casearia sylvestris,3
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.5551,-47.00894,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolia,4
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.56306,-47.01166,Média,4.61,51.1,1274,Bem drenado,Tabebuia heptaphylla,4
+CONGLOM_003,CONGLOM_003_SUB1,Mata Atlântica,-22.56006,-47.02095,Média,4.61,51.1,1274,Bem drenado,Inga vera,1
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.55778,-47.01715,Média,4.61,51.1,1274,Bem drenado,Casearia sylvestris,7
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.56842,-47.00767,Média,4.61,51.1,1274,Bem drenado,Croton floribundus,8
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.54928,-47.01198,Média,4.61,51.1,1274,Bem drenado,Mimosa scabrella,2
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.55487,-47.02225,Média,4.61,51.1,1274,Bem drenado,Myrsine coriacea,1
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.565,-47.0128,Média,4.61,51.1,1274,Bem drenado,Cedrela fissilis,5
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.56165,-47.01066,Média,4.61,51.1,1274,Bem drenado,Cecropia pachystachya,3
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.55896,-46.99835,Média,4.61,51.1,1274,Bem drenado,Inga vera,2
+CONGLOM_003,CONGLOM_003_SUB2,Mata Atlântica,-22.56028,-47.01611,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolia,2
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.55904,-47.01337,Média,4.61,51.1,1274,Bem drenado,Cariniana legalis,7
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.54826,-47.01259,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolius,7
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.55289,-47.01214,Média,4.61,51.1,1274,Bem drenado,Croton floribundus,9
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.55862,-47.0087,Média,4.61,51.1,1274,Bem drenado,Inga uruguensis,5
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.5529,-47.01579,Média,4.61,51.1,1274,Bem drenado,Euterpe edulis,1
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.56524,-47.01422,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_003,CONGLOM_003_SUB3,Mata Atlântica,-22.55588,-47.01555,Média,4.61,51.1,1274,Bem drenado,Tabebuia heptaphylla,3
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55572,-47.01875,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55487,-47.01417,Média,4.61,51.1,1274,Bem drenado,Casearia sylvestris,4
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55388,-47.01662,Média,4.61,51.1,1274,Bem drenado,Cariniana legalis,2
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55698,-47.0097,Média,4.61,51.1,1274,Bem drenado,Euterpe edulis,1
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55684,-47.01848,Média,4.61,51.1,1274,Bem drenado,Eugenia uniflora,12
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.54595,-47.01259,Média,4.61,51.1,1274,Bem drenado,Schinus terebinthifolius,9
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.54657,-47.01845,Média,4.61,51.1,1274,Bem drenado,Inga uruguensis,3
+CONGLOM_003,CONGLOM_003_SUB4,Mata Atlântica,-22.55789,-47.00974,Média,4.61,51.1,1274,Bem drenado,Mimosa scabrella,3
+CONGLOM_004,CONGLOM_004_SUB1,Mata Atlântica,-22.78075,-48.2868,Argilosa,5.57,39.4,1742,Bem drenado,Cedrela fissilis,2
+CONGLOM_004,CONGLOM_004_SUB1,Mata Atlântica,-22.7775,-48.28102,Argilosa,5.57,39.4,1742,Bem drenado,Balfourodendron riedelianum,4
+CONGLOM_004,CONGLOM_004_SUB1,Mata Atlântica,-22.78228,-48.27377,Argilosa,5.57,39.4,1742,Bem drenado,Myrsine coriacea,2
+CONGLOM_004,CONGLOM_004_SUB1,Mata Atlântica,-22.78268,-48.2804,Argilosa,5.57,39.4,1742,Bem drenado,Inga vera,5
+CONGLOM_004,CONGLOM_004_SUB2,Mata Atlântica,-22.78249,-48.28485,Argilosa,5.57,39.4,1742,Bem drenado,Cecropia pachystachya,1
+CONGLOM_004,CONGLOM_004_SUB2,Mata Atlântica,-22.77754,-48.28224,Argilosa,5.57,39.4,1742,Bem drenado,Myrsine coriacea,1
+CONGLOM_004,CONGLOM_004_SUB2,Mata Atlântica,-22.77921,-48.28308,Argilosa,5.57,39.4,1742,Bem drenado,Cedrela fissilis,4
+CONGLOM_004,CONGLOM_004_SUB2,Mata Atlântica,-22.78179,-48.27649,Argilosa,5.57,39.4,1742,Bem drenado,Balfourodendron riedelianum,2
+CONGLOM_004,CONGLOM_004_SUB3,Mata Atlântica,-22.77795,-48.28322,Argilosa,5.57,39.4,1742,Bem drenado,Schinus terebinthifolia,2
+CONGLOM_004,CONGLOM_004_SUB3,Mata Atlântica,-22.77487,-48.28147,Argilosa,5.57,39.4,1742,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_004,CONGLOM_004_SUB3,Mata Atlântica,-22.76967,-48.27981,Argilosa,5.57,39.4,1742,Bem drenado,Casearia sylvestris,1
+CONGLOM_004,CONGLOM_004_SUB3,Mata Atlântica,-22.77314,-48.28167,Argilosa,5.57,39.4,1742,Bem drenado,Psidium cattleyanum,4
+CONGLOM_004,CONGLOM_004_SUB4,Mata Atlântica,-22.77687,-48.28088,Argilosa,5.57,39.4,1742,Bem drenado,Myrsine coriacea,5
+CONGLOM_004,CONGLOM_004_SUB4,Mata Atlântica,-22.77612,-48.28359,Argilosa,5.57,39.4,1742,Bem drenado,Cariniana legalis,3
+CONGLOM_004,CONGLOM_004_SUB4,Mata Atlântica,-22.78038,-48.28133,Argilosa,5.57,39.4,1742,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_004,CONGLOM_004_SUB4,Mata Atlântica,-22.78993,-48.27839,Argilosa,5.57,39.4,1742,Bem drenado,Euterpe edulis,2
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.13036,-49.46766,Argilosa,5.24,25.1,1629,Úmido,Peltophorum dubium,1
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.14055,-49.47831,Argilosa,5.24,25.1,1629,Úmido,Handroanthus heptaphyllus,4
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.13855,-49.46713,Argilosa,5.24,25.1,1629,Úmido,Tabebuia heptaphylla,1
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.1425,-49.46898,Argilosa,5.24,25.1,1629,Úmido,Psidium cattleyanum,2
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.14558,-49.47197,Argilosa,5.24,25.1,1629,Úmido,Casearia sylvestris,1
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.12183,-49.47313,Argilosa,5.24,25.1,1629,Úmido,Mimosa scabrella,3
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.12427,-49.46306,Argilosa,5.24,25.1,1629,Úmido,Schinus terebinthifolius,4
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.14231,-49.47569,Argilosa,5.24,25.1,1629,Úmido,Guazuma ulmifolia,2
+CONGLOM_005,CONGLOM_005_SUB1,Mata Atlântica,-21.14177,-49.46704,Argilosa,5.24,25.1,1629,Úmido,Inga vera,6
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.13383,-49.46547,Argilosa,5.24,25.1,1629,Úmido,Guazuma ulmifolia,14
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.12572,-49.47039,Argilosa,5.24,25.1,1629,Úmido,Schinus terebinthifolius,6
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.13327,-49.4611,Argilosa,5.24,25.1,1629,Úmido,Casearia sylvestris,4
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.13685,-49.46754,Argilosa,5.24,25.1,1629,Úmido,Peltophorum dubium,2
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.13924,-49.46682,Argilosa,5.24,25.1,1629,Úmido,Handroanthus heptaphyllus,8
+CONGLOM_005,CONGLOM_005_SUB2,Mata Atlântica,-21.12546,-49.46868,Argilosa,5.24,25.1,1629,Úmido,Trema micrantha,4
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.12916,-49.46615,Argilosa,5.24,25.1,1629,Úmido,Handroanthus heptaphyllus,1
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.14705,-49.474,Argilosa,5.24,25.1,1629,Úmido,Peltophorum dubium,3
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13385,-49.46957,Argilosa,5.24,25.1,1629,Úmido,Casearia sylvestris,1
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13426,-49.47079,Argilosa,5.24,25.1,1629,Úmido,Euterpe edulis,1
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.1353,-49.46944,Argilosa,5.24,25.1,1629,Úmido,Guazuma ulmifolia,2
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13713,-49.47218,Argilosa,5.24,25.1,1629,Úmido,Cariniana legalis,4
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13198,-49.46484,Argilosa,5.24,25.1,1629,Úmido,Myrsine coriacea,1
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13034,-49.47164,Argilosa,5.24,25.1,1629,Úmido,Inga vera,2
+CONGLOM_005,CONGLOM_005_SUB3,Mata Atlântica,-21.13595,-49.46351,Argilosa,5.24,25.1,1629,Úmido,Eugenia uniflora,2
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.12617,-49.47017,Argilosa,5.24,25.1,1629,Úmido,Tabebuia heptaphylla,3
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.12985,-49.46641,Argilosa,5.24,25.1,1629,Úmido,Cedrela fissilis,2
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.1314,-49.47456,Argilosa,5.24,25.1,1629,Úmido,Cecropia pachystachya,1
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.13673,-49.46871,Argilosa,5.24,25.1,1629,Úmido,Guazuma ulmifolia,2
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.13859,-49.481,Argilosa,5.24,25.1,1629,Úmido,Psidium cattleyanum,2
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.11882,-49.4691,Argilosa,5.24,25.1,1629,Úmido,Handroanthus heptaphyllus,3
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.12763,-49.47238,Argilosa,5.24,25.1,1629,Úmido,Trema micrantha,2
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.12804,-49.46002,Argilosa,5.24,25.1,1629,Úmido,Cariniana legalis,1
+CONGLOM_005,CONGLOM_005_SUB4,Mata Atlântica,-21.12879,-49.46822,Argilosa,5.24,25.1,1629,Úmido,Inga uruguensis,3
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.7472,-47.76216,Argilosa,5.47,35.8,1776,Encharcado,Casearia sylvestris,1
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.74346,-47.76175,Argilosa,5.47,35.8,1776,Encharcado,Croton floribundus,1
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.75082,-47.76345,Argilosa,5.47,35.8,1776,Encharcado,Trema micrantha,1
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.73857,-47.76326,Argilosa,5.47,35.8,1776,Encharcado,Psidium cattleyanum,3
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.74317,-47.75321,Argilosa,5.47,35.8,1776,Encharcado,Eugenia uniflora,1
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.74029,-47.76104,Argilosa,5.47,35.8,1776,Encharcado,Schinus terebinthifolius,1
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.75333,-47.77373,Argilosa,5.47,35.8,1776,Encharcado,Inga vera,6
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.74777,-47.75939,Argilosa,5.47,35.8,1776,Encharcado,Guazuma ulmifolia,6
+CONGLOM_006,CONGLOM_006_SUB1,Mata Atlântica,-20.74319,-47.76745,Argilosa,5.47,35.8,1776,Encharcado,Cariniana legalis,6
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.74844,-47.76436,Argilosa,5.47,35.8,1776,Encharcado,Euterpe edulis,2
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.75236,-47.76936,Argilosa,5.47,35.8,1776,Encharcado,Trema micrantha,1
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.74779,-47.77043,Argilosa,5.47,35.8,1776,Encharcado,Peltophorum dubium,4
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.74012,-47.76178,Argilosa,5.47,35.8,1776,Encharcado,Tabebuia heptaphylla,3
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.74035,-47.76481,Argilosa,5.47,35.8,1776,Encharcado,Inga uruguensis,3
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.75322,-47.74583,Argilosa,5.47,35.8,1776,Encharcado,Myrsine coriacea,2
+CONGLOM_006,CONGLOM_006_SUB2,Mata Atlântica,-20.74733,-47.75861,Argilosa,5.47,35.8,1776,Encharcado,Casearia sylvestris,2
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.73269,-47.75906,Argilosa,5.47,35.8,1776,Encharcado,Inga uruguensis,1
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.74074,-47.75894,Argilosa,5.47,35.8,1776,Encharcado,Casearia sylvestris,1
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.74124,-47.75669,Argilosa,5.47,35.8,1776,Encharcado,Cecropia pachystachya,2
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.7393,-47.7577,Argilosa,5.47,35.8,1776,Encharcado,Euterpe edulis,11
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.75402,-47.76431,Argilosa,5.47,35.8,1776,Encharcado,Croton floribundus,8
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.73874,-47.75596,Argilosa,5.47,35.8,1776,Encharcado,Tabebuia heptaphylla,1
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.73871,-47.75501,Argilosa,5.47,35.8,1776,Encharcado,Mimosa scabrella,5
+CONGLOM_006,CONGLOM_006_SUB3,Mata Atlântica,-20.75304,-47.75411,Argilosa,5.47,35.8,1776,Encharcado,Cariniana legalis,6
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.75222,-47.76041,Argilosa,5.47,35.8,1776,Encharcado,Cedrela fissilis,10
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.73704,-47.75937,Argilosa,5.47,35.8,1776,Encharcado,Guazuma ulmifolia,2
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.75234,-47.76215,Argilosa,5.47,35.8,1776,Encharcado,Inga vera,3
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.75077,-47.76092,Argilosa,5.47,35.8,1776,Encharcado,Inga uruguensis,3
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.74004,-47.75405,Argilosa,5.47,35.8,1776,Encharcado,Schinus terebinthifolia,6
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.73882,-47.75917,Argilosa,5.47,35.8,1776,Encharcado,Tabebuia heptaphylla,5
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.74629,-47.7632,Argilosa,5.47,35.8,1776,Encharcado,Myrsine coriacea,2
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.74836,-47.75823,Argilosa,5.47,35.8,1776,Encharcado,Balfourodendron riedelianum,2
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.75005,-47.76435,Argilosa,5.47,35.8,1776,Encharcado,Cecropia pachystachya,1
+CONGLOM_006,CONGLOM_006_SUB4,Mata Atlântica,-20.74199,-47.76647,Argilosa,5.47,35.8,1776,Encharcado,Eugenia uniflora,4
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.53132,-45.92124,Média,5.43,62.4,1564,Bem drenado,Casearia sylvestris,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.52156,-45.91413,Média,5.43,62.4,1564,Bem drenado,Handroanthus heptaphyllus,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.53612,-45.91243,Média,5.43,62.4,1564,Bem drenado,Tabebuia heptaphylla,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.53453,-45.90479,Média,5.43,62.4,1564,Bem drenado,Peltophorum dubium,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.54215,-45.91565,Média,5.43,62.4,1564,Bem drenado,Mimosa scabrella,3
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.53119,-45.90878,Média,5.43,62.4,1564,Bem drenado,Guazuma ulmifolia,4
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.54317,-45.90792,Média,5.43,62.4,1564,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.53473,-45.91054,Média,5.43,62.4,1564,Bem drenado,Croton floribundus,1
+CONGLOM_007,CONGLOM_007_SUB1,Mata Atlântica,-23.52903,-45.91305,Média,5.43,62.4,1564,Bem drenado,Trema micrantha,1
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53802,-45.91545,Média,5.43,62.4,1564,Bem drenado,Cecropia pachystachya,2
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53532,-45.91442,Média,5.43,62.4,1564,Bem drenado,Balfourodendron riedelianum,4
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53107,-45.90969,Média,5.43,62.4,1564,Bem drenado,Psidium cattleyanum,2
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.52757,-45.92721,Média,5.43,62.4,1564,Bem drenado,Trema micrantha,1
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.54073,-45.90657,Média,5.43,62.4,1564,Bem drenado,Schinus terebinthifolia,3
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.52926,-45.9139,Média,5.43,62.4,1564,Bem drenado,Inga vera,2
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.54476,-45.92007,Média,5.43,62.4,1564,Bem drenado,Peltophorum dubium,2
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53348,-45.9067,Média,5.43,62.4,1564,Bem drenado,Eugenia uniflora,2
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53363,-45.90508,Média,5.43,62.4,1564,Bem drenado,Tabebuia heptaphylla,3
+CONGLOM_007,CONGLOM_007_SUB2,Mata Atlântica,-23.53545,-45.90867,Média,5.43,62.4,1564,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.53872,-45.90968,Média,5.43,62.4,1564,Bem drenado,Cariniana legalis,2
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.54108,-45.91824,Média,5.43,62.4,1564,Bem drenado,Myrsine coriacea,1
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.54403,-45.91968,Média,5.43,62.4,1564,Bem drenado,Croton floribundus,1
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.52944,-45.91471,Média,5.43,62.4,1564,Bem drenado,Psidium cattleyanum,3
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.52281,-45.91696,Média,5.43,62.4,1564,Bem drenado,Euterpe edulis,7
+CONGLOM_007,CONGLOM_007_SUB3,Mata Atlântica,-23.53352,-45.91118,Média,5.43,62.4,1564,Bem drenado,Peltophorum dubium,1
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53622,-45.91951,Média,5.43,62.4,1564,Bem drenado,Cecropia pachystachya,5
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53852,-45.91129,Média,5.43,62.4,1564,Bem drenado,Euterpe edulis,4
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53788,-45.91716,Média,5.43,62.4,1564,Bem drenado,Handroanthus heptaphyllus,4
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.52662,-45.90467,Média,5.43,62.4,1564,Bem drenado,Myrsine coriacea,2
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53617,-45.91073,Média,5.43,62.4,1564,Bem drenado,Inga vera,1
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53293,-45.91197,Média,5.43,62.4,1564,Bem drenado,Mimosa scabrella,1
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.53861,-45.91312,Média,5.43,62.4,1564,Bem drenado,Croton floribundus,3
+CONGLOM_007,CONGLOM_007_SUB4,Mata Atlântica,-23.54125,-45.9173,Média,5.43,62.4,1564,Bem drenado,Inga uruguensis,2
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.15415,-46.52715,Argilosa,5.01,57.6,1183,Úmido,Cariniana legalis,5
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.16273,-46.53059,Argilosa,5.01,57.6,1183,Úmido,Inga vera,3
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.16031,-46.53226,Argilosa,5.01,57.6,1183,Úmido,Myrsine coriacea,5
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.16293,-46.53052,Argilosa,5.01,57.6,1183,Úmido,Mimosa scabrella,1
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.15934,-46.5266,Argilosa,5.01,57.6,1183,Úmido,Casearia sylvestris,4
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.15539,-46.54044,Argilosa,5.01,57.6,1183,Úmido,Handroanthus heptaphyllus,1
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.16628,-46.52926,Argilosa,5.01,57.6,1183,Úmido,Cecropia pachystachya,10
+CONGLOM_008,CONGLOM_008_SUB1,Mata Atlântica,-22.152,-46.53193,Argilosa,5.01,57.6,1183,Úmido,Guazuma ulmifolia,3
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16853,-46.52817,Argilosa,5.01,57.6,1183,Úmido,Tabebuia heptaphylla,1
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16227,-46.53111,Argilosa,5.01,57.6,1183,Úmido,Cedrela fissilis,3
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16013,-46.54317,Argilosa,5.01,57.6,1183,Úmido,Schinus terebinthifolia,4
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16226,-46.52359,Argilosa,5.01,57.6,1183,Úmido,Trema micrantha,4
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16563,-46.53388,Argilosa,5.01,57.6,1183,Úmido,Psidium cattleyanum,1
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16459,-46.52945,Argilosa,5.01,57.6,1183,Úmido,Myrsine coriacea,4
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.15387,-46.52644,Argilosa,5.01,57.6,1183,Úmido,Cariniana legalis,1
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.15623,-46.53349,Argilosa,5.01,57.6,1183,Úmido,Inga uruguensis,1
+CONGLOM_008,CONGLOM_008_SUB2,Mata Atlântica,-22.16562,-46.52469,Argilosa,5.01,57.6,1183,Úmido,Balfourodendron riedelianum,2
+CONGLOM_008,CONGLOM_008_SUB3,Mata Atlântica,-22.16027,-46.53893,Argilosa,5.01,57.6,1183,Úmido,Psidium cattleyanum,1
+CONGLOM_008,CONGLOM_008_SUB3,Mata Atlântica,-22.15691,-46.53428,Argilosa,5.01,57.6,1183,Úmido,Cariniana legalis,2
+CONGLOM_008,CONGLOM_008_SUB3,Mata Atlântica,-22.16029,-46.5397,Argilosa,5.01,57.6,1183,Úmido,Handroanthus heptaphyllus,8
+CONGLOM_008,CONGLOM_008_SUB3,Mata Atlântica,-22.15129,-46.52549,Argilosa,5.01,57.6,1183,Úmido,Cedrela fissilis,1
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.15784,-46.53336,Argilosa,5.01,57.6,1183,Úmido,Inga vera,3
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.1534,-46.52928,Argilosa,5.01,57.6,1183,Úmido,Guazuma ulmifolia,3
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.15819,-46.53065,Argilosa,5.01,57.6,1183,Úmido,Tabebuia heptaphylla,8
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.1611,-46.53276,Argilosa,5.01,57.6,1183,Úmido,Psidium cattleyanum,4
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.16253,-46.53873,Argilosa,5.01,57.6,1183,Úmido,Schinus terebinthifolia,2
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.15436,-46.53254,Argilosa,5.01,57.6,1183,Úmido,Cedrela fissilis,4
+CONGLOM_008,CONGLOM_008_SUB4,Mata Atlântica,-22.16183,-46.52762,Argilosa,5.01,57.6,1183,Úmido,Trema micrantha,1
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.56084,-42.67928,Argilosa,6.09,65.2,1145,Úmido,Peltophorum dubium,6
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.56543,-42.66936,Argilosa,6.09,65.2,1145,Úmido,Schinus terebinthifolia,2
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.57069,-42.68269,Argilosa,6.09,65.2,1145,Úmido,Myrsine coriacea,4
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.57259,-42.68292,Argilosa,6.09,65.2,1145,Úmido,Mimosa scabrella,5
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.56755,-42.66956,Argilosa,6.09,65.2,1145,Úmido,Psidium cattleyanum,4
+CONGLOM_009,CONGLOM_009_SUB1,Mata Atlântica,-24.5721,-42.6765,Argilosa,6.09,65.2,1145,Úmido,Guazuma ulmifolia,2
+CONGLOM_009,CONGLOM_009_SUB2,Mata Atlântica,-24.56948,-42.67989,Argilosa,6.09,65.2,1145,Úmido,Balfourodendron riedelianum,2
+CONGLOM_009,CONGLOM_009_SUB2,Mata Atlântica,-24.55988,-42.67207,Argilosa,6.09,65.2,1145,Úmido,Tabebuia heptaphylla,2
+CONGLOM_009,CONGLOM_009_SUB2,Mata Atlântica,-24.57187,-42.68708,Argilosa,6.09,65.2,1145,Úmido,Cedrela fissilis,4
+CONGLOM_009,CONGLOM_009_SUB2,Mata Atlântica,-24.5612,-42.6809,Argilosa,6.09,65.2,1145,Úmido,Schinus terebinthifolius,2
+CONGLOM_009,CONGLOM_009_SUB3,Mata Atlântica,-24.56169,-42.68897,Argilosa,6.09,65.2,1145,Úmido,Cedrela fissilis,2
+CONGLOM_009,CONGLOM_009_SUB3,Mata Atlântica,-24.56556,-42.6807,Argilosa,6.09,65.2,1145,Úmido,Tabebuia heptaphylla,1
+CONGLOM_009,CONGLOM_009_SUB3,Mata Atlântica,-24.57391,-42.67446,Argilosa,6.09,65.2,1145,Úmido,Psidium cattleyanum,1
+CONGLOM_009,CONGLOM_009_SUB3,Mata Atlântica,-24.57521,-42.68163,Argilosa,6.09,65.2,1145,Úmido,Eugenia uniflora,4
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.55996,-42.67938,Argilosa,6.09,65.2,1145,Úmido,Schinus terebinthifolius,2
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.56196,-42.68107,Argilosa,6.09,65.2,1145,Úmido,Eugenia uniflora,3
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.57001,-42.68005,Argilosa,6.09,65.2,1145,Úmido,Trema micrantha,2
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.56904,-42.68252,Argilosa,6.09,65.2,1145,Úmido,Cariniana legalis,11
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.57362,-42.67712,Argilosa,6.09,65.2,1145,Úmido,Inga vera,1
+CONGLOM_009,CONGLOM_009_SUB4,Mata Atlântica,-24.55885,-42.67641,Argilosa,6.09,65.2,1145,Úmido,Cedrela fissilis,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11624,-46.66096,Arenosa,4.54,37.8,2170,Bem drenado,Eugenia uniflora,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11481,-46.65999,Arenosa,4.54,37.8,2170,Bem drenado,Casearia sylvestris,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11473,-46.66212,Arenosa,4.54,37.8,2170,Bem drenado,Cariniana legalis,4
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11264,-46.66012,Arenosa,4.54,37.8,2170,Bem drenado,Trema micrantha,6
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11153,-46.65175,Arenosa,4.54,37.8,2170,Bem drenado,Schinus terebinthifolia,5
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11401,-46.66638,Arenosa,4.54,37.8,2170,Bem drenado,Mimosa scabrella,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.1174,-46.65979,Arenosa,4.54,37.8,2170,Bem drenado,Psidium cattleyanum,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11421,-46.66475,Arenosa,4.54,37.8,2170,Bem drenado,Inga uruguensis,1
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11628,-46.65698,Arenosa,4.54,37.8,2170,Bem drenado,Myrsine coriacea,4
+CONGLOM_010,CONGLOM_010_SUB1,Mata Atlântica,-24.11755,-46.65706,Arenosa,4.54,37.8,2170,Bem drenado,Guazuma ulmifolia,6
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.11028,-46.65315,Arenosa,4.54,37.8,2170,Bem drenado,Croton floribundus,3
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.11082,-46.66245,Arenosa,4.54,37.8,2170,Bem drenado,Tabebuia heptaphylla,2
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.118,-46.66092,Arenosa,4.54,37.8,2170,Bem drenado,Cariniana legalis,2
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.12267,-46.66905,Arenosa,4.54,37.8,2170,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.10408,-46.6572,Arenosa,4.54,37.8,2170,Bem drenado,Cecropia pachystachya,3
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.11275,-46.65656,Arenosa,4.54,37.8,2170,Bem drenado,Psidium cattleyanum,4
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.11699,-46.65886,Arenosa,4.54,37.8,2170,Bem drenado,Inga uruguensis,8
+CONGLOM_010,CONGLOM_010_SUB2,Mata Atlântica,-24.1195,-46.66223,Arenosa,4.54,37.8,2170,Bem drenado,Peltophorum dubium,7
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.1152,-46.66749,Arenosa,4.54,37.8,2170,Bem drenado,Inga vera,3
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.11492,-46.66551,Arenosa,4.54,37.8,2170,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.11582,-46.65806,Arenosa,4.54,37.8,2170,Bem drenado,Cariniana legalis,1
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.11862,-46.6605,Arenosa,4.54,37.8,2170,Bem drenado,Croton floribundus,4
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.11511,-46.65811,Arenosa,4.54,37.8,2170,Bem drenado,Casearia sylvestris,3
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.11715,-46.65882,Arenosa,4.54,37.8,2170,Bem drenado,Tabebuia heptaphylla,4
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.12274,-46.65208,Arenosa,4.54,37.8,2170,Bem drenado,Eugenia uniflora,1
+CONGLOM_010,CONGLOM_010_SUB3,Mata Atlântica,-24.1171,-46.65707,Arenosa,4.54,37.8,2170,Bem drenado,Mimosa scabrella,5
+CONGLOM_010,CONGLOM_010_SUB4,Mata Atlântica,-24.1096,-46.65271,Arenosa,4.54,37.8,2170,Bem drenado,Peltophorum dubium,1
+CONGLOM_010,CONGLOM_010_SUB4,Mata Atlântica,-24.11851,-46.66767,Arenosa,4.54,37.8,2170,Bem drenado,Croton floribundus,2
+CONGLOM_010,CONGLOM_010_SUB4,Mata Atlântica,-24.11415,-46.66083,Arenosa,4.54,37.8,2170,Bem drenado,Inga uruguensis,3
+CONGLOM_010,CONGLOM_010_SUB4,Mata Atlântica,-24.11974,-46.65263,Arenosa,4.54,37.8,2170,Bem drenado,Cedrela fissilis,1
+CONGLOM_010,CONGLOM_010_SUB4,Mata Atlântica,-24.11084,-46.6553,Arenosa,4.54,37.8,2170,Bem drenado,Tabebuia heptaphylla,2
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55081,-49.46868,Argilosa,6.17,51.8,1401,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55833,-49.47901,Argilosa,6.17,51.8,1401,Bem drenado,Peltophorum dubium,2
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.5441,-49.47075,Argilosa,6.17,51.8,1401,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55198,-49.47625,Argilosa,6.17,51.8,1401,Bem drenado,Tabebuia heptaphylla,2
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.54977,-49.47745,Argilosa,6.17,51.8,1401,Bem drenado,Mimosa scabrella,8
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55704,-49.47244,Argilosa,6.17,51.8,1401,Bem drenado,Euterpe edulis,1
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55614,-49.46667,Argilosa,6.17,51.8,1401,Bem drenado,Schinus terebinthifolius,2
+CONGLOM_011,CONGLOM_011_SUB1,Mata Atlântica,-20.55513,-49.47988,Argilosa,6.17,51.8,1401,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55782,-49.47729,Argilosa,6.17,51.8,1401,Bem drenado,Trema micrantha,1
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.56165,-49.47031,Argilosa,6.17,51.8,1401,Bem drenado,Euterpe edulis,2
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.54169,-49.4785,Argilosa,6.17,51.8,1401,Bem drenado,Cedrela fissilis,2
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55249,-49.46865,Argilosa,6.17,51.8,1401,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55439,-49.47053,Argilosa,6.17,51.8,1401,Bem drenado,Tabebuia heptaphylla,12
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55205,-49.47334,Argilosa,6.17,51.8,1401,Bem drenado,Myrsine coriacea,7
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.54962,-49.46985,Argilosa,6.17,51.8,1401,Bem drenado,Cariniana legalis,2
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55334,-49.47662,Argilosa,6.17,51.8,1401,Bem drenado,Inga vera,1
+CONGLOM_011,CONGLOM_011_SUB2,Mata Atlântica,-20.55765,-49.46628,Argilosa,6.17,51.8,1401,Bem drenado,Eugenia uniflora,1
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.56037,-49.47267,Argilosa,6.17,51.8,1401,Bem drenado,Cedrela fissilis,2
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.55452,-49.47134,Argilosa,6.17,51.8,1401,Bem drenado,Casearia sylvestris,1
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.54884,-49.47514,Argilosa,6.17,51.8,1401,Bem drenado,Psidium cattleyanum,3
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.55222,-49.474,Argilosa,6.17,51.8,1401,Bem drenado,Inga vera,1
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.54674,-49.48292,Argilosa,6.17,51.8,1401,Bem drenado,Mimosa scabrella,2
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.55286,-49.48025,Argilosa,6.17,51.8,1401,Bem drenado,Inga uruguensis,1
+CONGLOM_011,CONGLOM_011_SUB3,Mata Atlântica,-20.55994,-49.46844,Argilosa,6.17,51.8,1401,Bem drenado,Handroanthus heptaphyllus,4
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55011,-49.4692,Argilosa,6.17,51.8,1401,Bem drenado,Tabebuia heptaphylla,3
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.54389,-49.47814,Argilosa,6.17,51.8,1401,Bem drenado,Schinus terebinthifolius,4
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.56218,-49.45935,Argilosa,6.17,51.8,1401,Bem drenado,Inga uruguensis,2
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55037,-49.47335,Argilosa,6.17,51.8,1401,Bem drenado,Croton floribundus,1
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55363,-49.47808,Argilosa,6.17,51.8,1401,Bem drenado,Cariniana legalis,1
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.54372,-49.46888,Argilosa,6.17,51.8,1401,Bem drenado,Mimosa scabrella,4
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.56013,-49.46768,Argilosa,6.17,51.8,1401,Bem drenado,Cedrela fissilis,1
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55844,-49.47028,Argilosa,6.17,51.8,1401,Bem drenado,Euterpe edulis,5
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55308,-49.47502,Argilosa,6.17,51.8,1401,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_011,CONGLOM_011_SUB4,Mata Atlântica,-20.55251,-49.46175,Argilosa,6.17,51.8,1401,Bem drenado,Cecropia pachystachya,1
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.90094,-49.30355,Argilosa,6.49,33.4,1816,Úmido,Eugenia uniflora,1
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.90863,-49.31691,Argilosa,6.49,33.4,1816,Úmido,Trema micrantha,2
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.9045,-49.30122,Argilosa,6.49,33.4,1816,Úmido,Inga vera,1
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.90691,-49.30648,Argilosa,6.49,33.4,1816,Úmido,Handroanthus heptaphyllus,5
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.89992,-49.29996,Argilosa,6.49,33.4,1816,Úmido,Cariniana legalis,1
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.91605,-49.30517,Argilosa,6.49,33.4,1816,Úmido,Mimosa scabrella,4
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.90927,-49.31499,Argilosa,6.49,33.4,1816,Úmido,Cecropia pachystachya,2
+CONGLOM_012,CONGLOM_012_SUB1,Mata Atlântica,-24.90787,-49.30682,Argilosa,6.49,33.4,1816,Úmido,Schinus terebinthifolius,2
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.9036,-49.30475,Argilosa,6.49,33.4,1816,Úmido,Tabebuia heptaphylla,1
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.90016,-49.30313,Argilosa,6.49,33.4,1816,Úmido,Guazuma ulmifolia,3
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.90571,-49.31029,Argilosa,6.49,33.4,1816,Úmido,Inga vera,3
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.90686,-49.3125,Argilosa,6.49,33.4,1816,Úmido,Mimosa scabrella,7
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.8936,-49.31161,Argilosa,6.49,33.4,1816,Úmido,Croton floribundus,2
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.9063,-49.30776,Argilosa,6.49,33.4,1816,Úmido,Peltophorum dubium,7
+CONGLOM_012,CONGLOM_012_SUB2,Mata Atlântica,-24.90235,-49.30202,Argilosa,6.49,33.4,1816,Úmido,Balfourodendron riedelianum,1
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.90436,-49.30653,Argilosa,6.49,33.4,1816,Úmido,Guazuma ulmifolia,1
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.90653,-49.30317,Argilosa,6.49,33.4,1816,Úmido,Balfourodendron riedelianum,4
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.90141,-49.30248,Argilosa,6.49,33.4,1816,Úmido,Euterpe edulis,2
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.90268,-49.29309,Argilosa,6.49,33.4,1816,Úmido,Schinus terebinthifolia,2
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.89483,-49.30298,Argilosa,6.49,33.4,1816,Úmido,Croton floribundus,1
+CONGLOM_012,CONGLOM_012_SUB3,Mata Atlântica,-24.89744,-49.30273,Argilosa,6.49,33.4,1816,Úmido,Trema micrantha,5
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90986,-49.30387,Argilosa,6.49,33.4,1816,Úmido,Peltophorum dubium,4
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90249,-49.29882,Argilosa,6.49,33.4,1816,Úmido,Cedrela fissilis,2
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90781,-49.30286,Argilosa,6.49,33.4,1816,Úmido,Croton floribundus,1
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.91113,-49.31163,Argilosa,6.49,33.4,1816,Úmido,Myrsine coriacea,8
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90027,-49.30796,Argilosa,6.49,33.4,1816,Úmido,Casearia sylvestris,1
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90797,-49.31657,Argilosa,6.49,33.4,1816,Úmido,Inga vera,14
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90276,-49.30143,Argilosa,6.49,33.4,1816,Úmido,Schinus terebinthifolius,3
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.89548,-49.30985,Argilosa,6.49,33.4,1816,Úmido,Eugenia uniflora,2
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.91151,-49.29978,Argilosa,6.49,33.4,1816,Úmido,Tabebuia heptaphylla,1
+CONGLOM_012,CONGLOM_012_SUB4,Mata Atlântica,-24.90298,-49.31028,Argilosa,6.49,33.4,1816,Úmido,Cariniana legalis,4
+CONGLOM_013,CONGLOM_013_SUB1,Mata Atlântica,-23.61735,-45.36795,Argilosa,5.83,50.9,1716,Bem drenado,Cedrela fissilis,4
+CONGLOM_013,CONGLOM_013_SUB1,Mata Atlântica,-23.61107,-45.3579,Argilosa,5.83,50.9,1716,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_013,CONGLOM_013_SUB1,Mata Atlântica,-23.61856,-45.3641,Argilosa,5.83,50.9,1716,Bem drenado,Schinus terebinthifolius,4
+CONGLOM_013,CONGLOM_013_SUB1,Mata Atlântica,-23.6208,-45.36147,Argilosa,5.83,50.9,1716,Bem drenado,Psidium cattleyanum,3
+CONGLOM_013,CONGLOM_013_SUB1,Mata Atlântica,-23.61264,-45.36828,Argilosa,5.83,50.9,1716,Bem drenado,Casearia sylvestris,3
+CONGLOM_013,CONGLOM_013_SUB2,Mata Atlântica,-23.62773,-45.36539,Argilosa,5.83,50.9,1716,Bem drenado,Casearia sylvestris,2
+CONGLOM_013,CONGLOM_013_SUB2,Mata Atlântica,-23.60962,-45.35426,Argilosa,5.83,50.9,1716,Bem drenado,Cecropia pachystachya,7
+CONGLOM_013,CONGLOM_013_SUB2,Mata Atlântica,-23.61553,-45.36639,Argilosa,5.83,50.9,1716,Bem drenado,Cariniana legalis,1
+CONGLOM_013,CONGLOM_013_SUB2,Mata Atlântica,-23.61576,-45.36149,Argilosa,5.83,50.9,1716,Bem drenado,Handroanthus heptaphyllus,6
+CONGLOM_013,CONGLOM_013_SUB2,Mata Atlântica,-23.61893,-45.36616,Argilosa,5.83,50.9,1716,Bem drenado,Inga vera,1
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61492,-45.36258,Argilosa,5.83,50.9,1716,Bem drenado,Peltophorum dubium,4
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61948,-45.36071,Argilosa,5.83,50.9,1716,Bem drenado,Myrsine coriacea,4
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.60836,-45.36328,Argilosa,5.83,50.9,1716,Bem drenado,Inga vera,5
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61469,-45.34962,Argilosa,5.83,50.9,1716,Bem drenado,Mimosa scabrella,4
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61193,-45.36491,Argilosa,5.83,50.9,1716,Bem drenado,Schinus terebinthifolia,10
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.62051,-45.36676,Argilosa,5.83,50.9,1716,Bem drenado,Trema micrantha,1
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61828,-45.36222,Argilosa,5.83,50.9,1716,Bem drenado,Cariniana legalis,7
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.61229,-45.36122,Argilosa,5.83,50.9,1716,Bem drenado,Schinus terebinthifolius,3
+CONGLOM_013,CONGLOM_013_SUB3,Mata Atlântica,-23.6091,-45.37282,Argilosa,5.83,50.9,1716,Bem drenado,Cedrela fissilis,1
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.60944,-45.36484,Argilosa,5.83,50.9,1716,Bem drenado,Cecropia pachystachya,4
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.6138,-45.3615,Argilosa,5.83,50.9,1716,Bem drenado,Inga vera,1
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.62483,-45.36158,Argilosa,5.83,50.9,1716,Bem drenado,Trema micrantha,4
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.60625,-45.36002,Argilosa,5.83,50.9,1716,Bem drenado,Handroanthus heptaphyllus,5
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.61903,-45.3591,Argilosa,5.83,50.9,1716,Bem drenado,Inga uruguensis,4
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.61373,-45.3582,Argilosa,5.83,50.9,1716,Bem drenado,Casearia sylvestris,1
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.60502,-45.3513,Argilosa,5.83,50.9,1716,Bem drenado,Tabebuia heptaphylla,4
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.62058,-45.36601,Argilosa,5.83,50.9,1716,Bem drenado,Myrsine coriacea,1
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.61675,-45.35536,Argilosa,5.83,50.9,1716,Bem drenado,Euterpe edulis,2
+CONGLOM_013,CONGLOM_013_SUB4,Mata Atlântica,-23.61823,-45.36242,Argilosa,5.83,50.9,1716,Bem drenado,Cedrela fissilis,2
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85524,-48.93714,Argilosa,4.72,39.6,1933,Bem drenado,Cedrela fissilis,10
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85208,-48.93132,Argilosa,4.72,39.6,1933,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.84325,-48.94046,Argilosa,4.72,39.6,1933,Bem drenado,Psidium cattleyanum,1
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85261,-48.93392,Argilosa,4.72,39.6,1933,Bem drenado,Tabebuia heptaphylla,1
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85397,-48.93286,Argilosa,4.72,39.6,1933,Bem drenado,Balfourodendron riedelianum,2
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.84782,-48.92796,Argilosa,4.72,39.6,1933,Bem drenado,Mimosa scabrella,10
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.8545,-48.9302,Argilosa,4.72,39.6,1933,Bem drenado,Trema micrantha,1
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.8534,-48.93646,Argilosa,4.72,39.6,1933,Bem drenado,Inga vera,1
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85067,-48.9335,Argilosa,4.72,39.6,1933,Bem drenado,Cariniana legalis,2
+CONGLOM_014,CONGLOM_014_SUB1,Mata Atlântica,-23.85759,-48.93214,Argilosa,4.72,39.6,1933,Bem drenado,Croton floribundus,1
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85656,-48.92692,Argilosa,4.72,39.6,1933,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85749,-48.93208,Argilosa,4.72,39.6,1933,Bem drenado,Guazuma ulmifolia,6
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.84385,-48.94324,Argilosa,4.72,39.6,1933,Bem drenado,Inga vera,3
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85142,-48.93321,Argilosa,4.72,39.6,1933,Bem drenado,Cecropia pachystachya,4
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85515,-48.9385,Argilosa,4.72,39.6,1933,Bem drenado,Euterpe edulis,1
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85818,-48.93261,Argilosa,4.72,39.6,1933,Bem drenado,Cariniana legalis,1
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85469,-48.9381,Argilosa,4.72,39.6,1933,Bem drenado,Peltophorum dubium,3
+CONGLOM_014,CONGLOM_014_SUB2,Mata Atlântica,-23.85654,-48.94119,Argilosa,4.72,39.6,1933,Bem drenado,Inga uruguensis,5
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85643,-48.94173,Argilosa,4.72,39.6,1933,Bem drenado,Tabebuia heptaphylla,2
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.84703,-48.93701,Argilosa,4.72,39.6,1933,Bem drenado,Cariniana legalis,1
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85381,-48.93664,Argilosa,4.72,39.6,1933,Bem drenado,Cedrela fissilis,2
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85086,-48.9307,Argilosa,4.72,39.6,1933,Bem drenado,Mimosa scabrella,1
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85337,-48.93435,Argilosa,4.72,39.6,1933,Bem drenado,Inga uruguensis,5
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85072,-48.92395,Argilosa,4.72,39.6,1933,Bem drenado,Balfourodendron riedelianum,2
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.86093,-48.93644,Argilosa,4.72,39.6,1933,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_014,CONGLOM_014_SUB3,Mata Atlântica,-23.85417,-48.93622,Argilosa,4.72,39.6,1933,Bem drenado,Croton floribundus,1
+CONGLOM_014,CONGLOM_014_SUB4,Mata Atlântica,-23.8499,-48.93837,Argilosa,4.72,39.6,1933,Bem drenado,Tabebuia heptaphylla,1
+CONGLOM_014,CONGLOM_014_SUB4,Mata Atlântica,-23.85322,-48.92932,Argilosa,4.72,39.6,1933,Bem drenado,Croton floribundus,1
+CONGLOM_014,CONGLOM_014_SUB4,Mata Atlântica,-23.85183,-48.92931,Argilosa,4.72,39.6,1933,Bem drenado,Cariniana legalis,1
+CONGLOM_014,CONGLOM_014_SUB4,Mata Atlântica,-23.84869,-48.93262,Argilosa,4.72,39.6,1933,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_015,CONGLOM_015_SUB1,Mata Atlântica,-21.22159,-45.9269,Arenosa,5.49,37.4,1578,Úmido,Casearia sylvestris,1
+CONGLOM_015,CONGLOM_015_SUB1,Mata Atlântica,-21.2256,-45.92817,Arenosa,5.49,37.4,1578,Úmido,Psidium cattleyanum,1
+CONGLOM_015,CONGLOM_015_SUB1,Mata Atlântica,-21.22705,-45.93379,Arenosa,5.49,37.4,1578,Úmido,Schinus terebinthifolia,6
+CONGLOM_015,CONGLOM_015_SUB1,Mata Atlântica,-21.21464,-45.92835,Arenosa,5.49,37.4,1578,Úmido,Mimosa scabrella,2
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22693,-45.92246,Arenosa,5.49,37.4,1578,Úmido,Guazuma ulmifolia,1
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.23056,-45.92448,Arenosa,5.49,37.4,1578,Úmido,Psidium cattleyanum,1
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22075,-45.92571,Arenosa,5.49,37.4,1578,Úmido,Cedrela fissilis,1
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22812,-45.92909,Arenosa,5.49,37.4,1578,Úmido,Casearia sylvestris,2
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.23514,-45.93374,Arenosa,5.49,37.4,1578,Úmido,Peltophorum dubium,2
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22227,-45.91816,Arenosa,5.49,37.4,1578,Úmido,Mimosa scabrella,6
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22854,-45.92509,Arenosa,5.49,37.4,1578,Úmido,Inga vera,1
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.2254,-45.9289,Arenosa,5.49,37.4,1578,Úmido,Schinus terebinthifolius,1
+CONGLOM_015,CONGLOM_015_SUB2,Mata Atlântica,-21.22747,-45.93028,Arenosa,5.49,37.4,1578,Úmido,Handroanthus heptaphyllus,3
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22509,-45.92203,Arenosa,5.49,37.4,1578,Úmido,Cedrela fissilis,3
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22919,-45.92401,Arenosa,5.49,37.4,1578,Úmido,Croton floribundus,5
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22583,-45.92955,Arenosa,5.49,37.4,1578,Úmido,Peltophorum dubium,6
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22629,-45.92686,Arenosa,5.49,37.4,1578,Úmido,Cariniana legalis,1
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.21274,-45.92825,Arenosa,5.49,37.4,1578,Úmido,Euterpe edulis,1
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22533,-45.93096,Arenosa,5.49,37.4,1578,Úmido,Eugenia uniflora,1
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22185,-45.91938,Arenosa,5.49,37.4,1578,Úmido,Schinus terebinthifolius,1
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.22936,-45.91694,Arenosa,5.49,37.4,1578,Úmido,Inga vera,5
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.23085,-45.93129,Arenosa,5.49,37.4,1578,Úmido,Casearia sylvestris,3
+CONGLOM_015,CONGLOM_015_SUB3,Mata Atlântica,-21.21916,-45.92707,Arenosa,5.49,37.4,1578,Úmido,Trema micrantha,4
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.22767,-45.92192,Arenosa,5.49,37.4,1578,Úmido,Mimosa scabrella,1
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.22588,-45.92663,Arenosa,5.49,37.4,1578,Úmido,Psidium cattleyanum,1
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.22894,-45.92687,Arenosa,5.49,37.4,1578,Úmido,Eugenia uniflora,3
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.22058,-45.93174,Arenosa,5.49,37.4,1578,Úmido,Euterpe edulis,2
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.2323,-45.92878,Arenosa,5.49,37.4,1578,Úmido,Schinus terebinthifolius,3
+CONGLOM_015,CONGLOM_015_SUB4,Mata Atlântica,-21.21667,-45.92813,Arenosa,5.49,37.4,1578,Úmido,Schinus terebinthifolia,11
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65906,-46.62672,Argilosa,5.66,73.0,1522,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65661,-46.6145,Argilosa,5.66,73.0,1522,Bem drenado,Cecropia pachystachya,2
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.66206,-46.61363,Argilosa,5.66,73.0,1522,Bem drenado,Cedrela fissilis,1
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65677,-46.6133,Argilosa,5.66,73.0,1522,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65926,-46.61866,Argilosa,5.66,73.0,1522,Bem drenado,Myrsine coriacea,2
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65137,-46.61762,Argilosa,5.66,73.0,1522,Bem drenado,Casearia sylvestris,5
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65653,-46.62189,Argilosa,5.66,73.0,1522,Bem drenado,Croton floribundus,3
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65351,-46.61783,Argilosa,5.66,73.0,1522,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_016,CONGLOM_016_SUB1,Cerrado,-25.65522,-46.6212,Argilosa,5.66,73.0,1522,Bem drenado,Inga vera,2
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.64809,-46.61672,Argilosa,5.66,73.0,1522,Bem drenado,Inga vera,4
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.65441,-46.61148,Argilosa,5.66,73.0,1522,Bem drenado,Casearia sylvestris,1
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.65539,-46.62038,Argilosa,5.66,73.0,1522,Bem drenado,Guazuma ulmifolia,6
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.65966,-46.62577,Argilosa,5.66,73.0,1522,Bem drenado,Myrsine coriacea,3
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.65505,-46.60714,Argilosa,5.66,73.0,1522,Bem drenado,Handroanthus heptaphyllus,1
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.65849,-46.60544,Argilosa,5.66,73.0,1522,Bem drenado,Cedrela fissilis,1
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.66123,-46.61514,Argilosa,5.66,73.0,1522,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_016,CONGLOM_016_SUB2,Cerrado,-25.66631,-46.61568,Argilosa,5.66,73.0,1522,Bem drenado,Croton floribundus,4
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.65408,-46.61206,Argilosa,5.66,73.0,1522,Bem drenado,Croton floribundus,2
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.65085,-46.6163,Argilosa,5.66,73.0,1522,Bem drenado,Cecropia pachystachya,2
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.65371,-46.62998,Argilosa,5.66,73.0,1522,Bem drenado,Handroanthus heptaphyllus,6
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.6469,-46.61649,Argilosa,5.66,73.0,1522,Bem drenado,Eugenia uniflora,3
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.66055,-46.61325,Argilosa,5.66,73.0,1522,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.65096,-46.61794,Argilosa,5.66,73.0,1522,Bem drenado,Myrsine coriacea,1
+CONGLOM_016,CONGLOM_016_SUB3,Cerrado,-25.65192,-46.61272,Argilosa,5.66,73.0,1522,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65376,-46.61303,Argilosa,5.66,73.0,1522,Bem drenado,Myrsine coriacea,3
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65681,-46.61969,Argilosa,5.66,73.0,1522,Bem drenado,Schinus terebinthifolius,3
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.66488,-46.62345,Argilosa,5.66,73.0,1522,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.66064,-46.61682,Argilosa,5.66,73.0,1522,Bem drenado,Handroanthus heptaphyllus,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65653,-46.61224,Argilosa,5.66,73.0,1522,Bem drenado,Inga vera,4
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65668,-46.61937,Argilosa,5.66,73.0,1522,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65758,-46.61487,Argilosa,5.66,73.0,1522,Bem drenado,Peltophorum dubium,4
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.66472,-46.6191,Argilosa,5.66,73.0,1522,Bem drenado,Croton floribundus,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65232,-46.61843,Argilosa,5.66,73.0,1522,Bem drenado,Cedrela fissilis,1
+CONGLOM_016,CONGLOM_016_SUB4,Cerrado,-25.65253,-46.61625,Argilosa,5.66,73.0,1522,Bem drenado,Cecropia pachystachya,7
+CONGLOM_017,CONGLOM_017_SUB1,Cerrado,-24.57486,-46.69367,Argilosa,5.97,73.8,1763,Bem drenado,Myrsine coriacea,2
+CONGLOM_017,CONGLOM_017_SUB1,Cerrado,-24.57606,-46.68767,Argilosa,5.97,73.8,1763,Bem drenado,Trema micrantha,1
+CONGLOM_017,CONGLOM_017_SUB1,Cerrado,-24.5745,-46.68072,Argilosa,5.97,73.8,1763,Bem drenado,Schinus terebinthifolius,6
+CONGLOM_017,CONGLOM_017_SUB1,Cerrado,-24.57585,-46.68382,Argilosa,5.97,73.8,1763,Bem drenado,Croton floribundus,1
+CONGLOM_017,CONGLOM_017_SUB2,Cerrado,-24.57432,-46.69002,Argilosa,5.97,73.8,1763,Bem drenado,Trema micrantha,4
+CONGLOM_017,CONGLOM_017_SUB2,Cerrado,-24.56738,-46.69095,Argilosa,5.97,73.8,1763,Bem drenado,Cecropia pachystachya,2
+CONGLOM_017,CONGLOM_017_SUB2,Cerrado,-24.56971,-46.68754,Argilosa,5.97,73.8,1763,Bem drenado,Croton floribundus,1
+CONGLOM_017,CONGLOM_017_SUB2,Cerrado,-24.57216,-46.68472,Argilosa,5.97,73.8,1763,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.57007,-46.68816,Argilosa,5.97,73.8,1763,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.57058,-46.68752,Argilosa,5.97,73.8,1763,Bem drenado,Inga vera,4
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.57001,-46.68993,Argilosa,5.97,73.8,1763,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.57172,-46.69076,Argilosa,5.97,73.8,1763,Bem drenado,Peltophorum dubium,3
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.58519,-46.68842,Argilosa,5.97,73.8,1763,Bem drenado,Schinus terebinthifolius,8
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.57378,-46.69461,Argilosa,5.97,73.8,1763,Bem drenado,Cedrela fissilis,2
+CONGLOM_017,CONGLOM_017_SUB3,Cerrado,-24.56485,-46.6901,Argilosa,5.97,73.8,1763,Bem drenado,Eugenia uniflora,2
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.56914,-46.69301,Argilosa,5.97,73.8,1763,Bem drenado,Eugenia uniflora,1
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.56565,-46.69535,Argilosa,5.97,73.8,1763,Bem drenado,Myrsine coriacea,4
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57553,-46.68531,Argilosa,5.97,73.8,1763,Bem drenado,Casearia sylvestris,2
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57542,-46.69557,Argilosa,5.97,73.8,1763,Bem drenado,Trema micrantha,6
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57082,-46.69352,Argilosa,5.97,73.8,1763,Bem drenado,Croton floribundus,1
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57865,-46.69417,Argilosa,5.97,73.8,1763,Bem drenado,Cecropia pachystachya,1
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57217,-46.69348,Argilosa,5.97,73.8,1763,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.56713,-46.70055,Argilosa,5.97,73.8,1763,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.57112,-46.68982,Argilosa,5.97,73.8,1763,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_017,CONGLOM_017_SUB4,Cerrado,-24.56094,-46.68742,Argilosa,5.97,73.8,1763,Bem drenado,Peltophorum dubium,8
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.62387,-44.31483,Média,5.7,73.7,1238,Bem drenado,Cecropia pachystachya,1
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.62795,-44.30685,Média,5.7,73.7,1238,Bem drenado,Balfourodendron riedelianum,9
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.64018,-44.31275,Média,5.7,73.7,1238,Bem drenado,Myrsine coriacea,4
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.62933,-44.31628,Média,5.7,73.7,1238,Bem drenado,Trema micrantha,1
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.63229,-44.30827,Média,5.7,73.7,1238,Bem drenado,Handroanthus heptaphyllus,4
+CONGLOM_018,CONGLOM_018_SUB1,Cerrado,-24.62871,-44.30692,Média,5.7,73.7,1238,Bem drenado,Schinus terebinthifolia,8
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62871,-44.30618,Média,5.7,73.7,1238,Bem drenado,Cecropia pachystachya,1
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62662,-44.31323,Média,5.7,73.7,1238,Bem drenado,Croton floribundus,6
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62957,-44.30599,Média,5.7,73.7,1238,Bem drenado,Trema micrantha,4
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.63234,-44.30776,Média,5.7,73.7,1238,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62657,-44.30708,Média,5.7,73.7,1238,Bem drenado,Eugenia uniflora,3
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.63726,-44.31167,Média,5.7,73.7,1238,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62654,-44.30881,Média,5.7,73.7,1238,Bem drenado,Peltophorum dubium,4
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62554,-44.30715,Média,5.7,73.7,1238,Bem drenado,Schinus terebinthifolius,8
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.63535,-44.30711,Média,5.7,73.7,1238,Bem drenado,Casearia sylvestris,4
+CONGLOM_018,CONGLOM_018_SUB2,Cerrado,-24.62338,-44.30716,Média,5.7,73.7,1238,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.64177,-44.30831,Média,5.7,73.7,1238,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.63637,-44.30746,Média,5.7,73.7,1238,Bem drenado,Croton floribundus,8
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.63293,-44.30148,Média,5.7,73.7,1238,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.62619,-44.30868,Média,5.7,73.7,1238,Bem drenado,Cedrela fissilis,3
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.62357,-44.30966,Média,5.7,73.7,1238,Bem drenado,Inga vera,8
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.6341,-44.31182,Média,5.7,73.7,1238,Bem drenado,Cecropia pachystachya,4
+CONGLOM_018,CONGLOM_018_SUB3,Cerrado,-24.62601,-44.30598,Média,5.7,73.7,1238,Bem drenado,Casearia sylvestris,2
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.62892,-44.3105,Média,5.7,73.7,1238,Bem drenado,Schinus terebinthifolia,2
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.63061,-44.31131,Média,5.7,73.7,1238,Bem drenado,Eugenia uniflora,3
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.63554,-44.31609,Média,5.7,73.7,1238,Bem drenado,Inga vera,2
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.63815,-44.30303,Média,5.7,73.7,1238,Bem drenado,Trema micrantha,4
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.62678,-44.31597,Média,5.7,73.7,1238,Bem drenado,Casearia sylvestris,4
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.63487,-44.30442,Média,5.7,73.7,1238,Bem drenado,Peltophorum dubium,2
+CONGLOM_018,CONGLOM_018_SUB4,Cerrado,-24.63645,-44.30791,Média,5.7,73.7,1238,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.27351,-50.21078,Argilosa,6.49,35.5,2145,Bem drenado,Casearia sylvestris,4
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.26269,-50.21997,Argilosa,6.49,35.5,2145,Bem drenado,Eugenia uniflora,1
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.27333,-50.20492,Argilosa,6.49,35.5,2145,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.26697,-50.20668,Argilosa,6.49,35.5,2145,Bem drenado,Inga vera,1
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.26192,-50.20813,Argilosa,6.49,35.5,2145,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_019,CONGLOM_019_SUB1,Cerrado,-26.2661,-50.2053,Argilosa,6.49,35.5,2145,Bem drenado,Cecropia pachystachya,2
+CONGLOM_019,CONGLOM_019_SUB2,Cerrado,-26.25959,-50.21607,Argilosa,6.49,35.5,2145,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_019,CONGLOM_019_SUB2,Cerrado,-26.26145,-50.21266,Argilosa,6.49,35.5,2145,Bem drenado,Trema micrantha,1
+CONGLOM_019,CONGLOM_019_SUB2,Cerrado,-26.26939,-50.21668,Argilosa,6.49,35.5,2145,Bem drenado,Peltophorum dubium,1
+CONGLOM_019,CONGLOM_019_SUB2,Cerrado,-26.27184,-50.20278,Argilosa,6.49,35.5,2145,Bem drenado,Myrsine coriacea,4
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26941,-50.20474,Argilosa,6.49,35.5,2145,Bem drenado,Eugenia uniflora,10
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26941,-50.21071,Argilosa,6.49,35.5,2145,Bem drenado,Cecropia pachystachya,3
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.27057,-50.20924,Argilosa,6.49,35.5,2145,Bem drenado,Myrsine coriacea,2
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26358,-50.21132,Argilosa,6.49,35.5,2145,Bem drenado,Peltophorum dubium,4
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26317,-50.21936,Argilosa,6.49,35.5,2145,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26157,-50.20783,Argilosa,6.49,35.5,2145,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.25644,-50.1963,Argilosa,6.49,35.5,2145,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_019,CONGLOM_019_SUB3,Cerrado,-26.26101,-50.20687,Argilosa,6.49,35.5,2145,Bem drenado,Inga vera,2
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.27113,-50.20958,Argilosa,6.49,35.5,2145,Bem drenado,Peltophorum dubium,1
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.26273,-50.20614,Argilosa,6.49,35.5,2145,Bem drenado,Eugenia uniflora,1
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.27582,-50.20938,Argilosa,6.49,35.5,2145,Bem drenado,Cecropia pachystachya,2
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.2786,-50.21113,Argilosa,6.49,35.5,2145,Bem drenado,Croton floribundus,2
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.26514,-50.21347,Argilosa,6.49,35.5,2145,Bem drenado,Guazuma ulmifolia,6
+CONGLOM_019,CONGLOM_019_SUB4,Cerrado,-26.26615,-50.19723,Argilosa,6.49,35.5,2145,Bem drenado,Trema micrantha,3
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26675,-46.22566,Arenosa,5.49,37.0,1630,Bem drenado,Schinus terebinthifolia,4
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26271,-46.22517,Arenosa,5.49,37.0,1630,Bem drenado,Croton floribundus,1
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.2648,-46.22779,Arenosa,5.49,37.0,1630,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26898,-46.22785,Arenosa,5.49,37.0,1630,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.2634,-46.22216,Arenosa,5.49,37.0,1630,Bem drenado,Inga vera,2
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.27,-46.22269,Arenosa,5.49,37.0,1630,Bem drenado,Guazuma ulmifolia,5
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26407,-46.22875,Arenosa,5.49,37.0,1630,Bem drenado,Casearia sylvestris,2
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26202,-46.22588,Arenosa,5.49,37.0,1630,Bem drenado,Cecropia pachystachya,3
+CONGLOM_020,CONGLOM_020_SUB1,Cerrado,-22.26564,-46.22398,Arenosa,5.49,37.0,1630,Bem drenado,Cedrela fissilis,4
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.26399,-46.2303,Arenosa,5.49,37.0,1630,Bem drenado,Croton floribundus,2
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.26605,-46.21717,Arenosa,5.49,37.0,1630,Bem drenado,Eugenia uniflora,4
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.27032,-46.22893,Arenosa,5.49,37.0,1630,Bem drenado,Handroanthus heptaphyllus,1
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.27158,-46.22632,Arenosa,5.49,37.0,1630,Bem drenado,Peltophorum dubium,1
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.2618,-46.22533,Arenosa,5.49,37.0,1630,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.26326,-46.22475,Arenosa,5.49,37.0,1630,Bem drenado,Schinus terebinthifolia,3
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.25447,-46.21897,Arenosa,5.49,37.0,1630,Bem drenado,Cedrela fissilis,1
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.25689,-46.22061,Arenosa,5.49,37.0,1630,Bem drenado,Casearia sylvestris,3
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.26845,-46.23026,Arenosa,5.49,37.0,1630,Bem drenado,Schinus terebinthifolius,3
+CONGLOM_020,CONGLOM_020_SUB2,Cerrado,-22.26392,-46.22429,Arenosa,5.49,37.0,1630,Bem drenado,Myrsine coriacea,3
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26477,-46.22357,Arenosa,5.49,37.0,1630,Bem drenado,Croton floribundus,2
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26296,-46.22655,Arenosa,5.49,37.0,1630,Bem drenado,Balfourodendron riedelianum,3
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26126,-46.22473,Arenosa,5.49,37.0,1630,Bem drenado,Inga vera,1
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26502,-46.23371,Arenosa,5.49,37.0,1630,Bem drenado,Trema micrantha,2
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26276,-46.22611,Arenosa,5.49,37.0,1630,Bem drenado,Myrsine coriacea,3
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.2693,-46.22223,Arenosa,5.49,37.0,1630,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26104,-46.22284,Arenosa,5.49,37.0,1630,Bem drenado,Handroanthus heptaphyllus,3
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.26676,-46.22913,Arenosa,5.49,37.0,1630,Bem drenado,Casearia sylvestris,1
+CONGLOM_020,CONGLOM_020_SUB3,Cerrado,-22.25432,-46.22718,Arenosa,5.49,37.0,1630,Bem drenado,Eugenia uniflora,1
+CONGLOM_020,CONGLOM_020_SUB4,Cerrado,-22.26119,-46.23812,Arenosa,5.49,37.0,1630,Bem drenado,Cedrela fissilis,4
+CONGLOM_020,CONGLOM_020_SUB4,Cerrado,-22.26481,-46.21833,Arenosa,5.49,37.0,1630,Bem drenado,Eugenia uniflora,1
+CONGLOM_020,CONGLOM_020_SUB4,Cerrado,-22.26582,-46.2203,Arenosa,5.49,37.0,1630,Bem drenado,Croton floribundus,1
+CONGLOM_020,CONGLOM_020_SUB4,Cerrado,-22.25784,-46.22686,Arenosa,5.49,37.0,1630,Bem drenado,Guazuma ulmifolia,5
+CONGLOM_020,CONGLOM_020_SUB4,Cerrado,-22.26285,-46.21932,Arenosa,5.49,37.0,1630,Bem drenado,Cecropia pachystachya,3
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28241,-49.34447,Média,5.46,47.5,1963,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28557,-49.34011,Média,5.46,47.5,1963,Bem drenado,Croton floribundus,7
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28305,-49.34609,Média,5.46,47.5,1963,Bem drenado,Myrsine coriacea,5
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.29037,-49.341,Média,5.46,47.5,1963,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28556,-49.34923,Média,5.46,47.5,1963,Bem drenado,Trema micrantha,2
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28929,-49.34427,Média,5.46,47.5,1963,Bem drenado,Schinus terebinthifolia,1
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.28704,-49.34187,Média,5.46,47.5,1963,Bem drenado,Cedrela fissilis,1
+CONGLOM_021,CONGLOM_021_SUB1,Cerrado,-23.2969,-49.3488,Média,5.46,47.5,1963,Bem drenado,Eugenia uniflora,3
+CONGLOM_021,CONGLOM_021_SUB2,Cerrado,-23.30167,-49.35017,Média,5.46,47.5,1963,Bem drenado,Cecropia pachystachya,1
+CONGLOM_021,CONGLOM_021_SUB2,Cerrado,-23.29168,-49.35408,Média,5.46,47.5,1963,Bem drenado,Guazuma ulmifolia,1
+CONGLOM_021,CONGLOM_021_SUB2,Cerrado,-23.29368,-49.33751,Média,5.46,47.5,1963,Bem drenado,Myrsine coriacea,2
+CONGLOM_021,CONGLOM_021_SUB2,Cerrado,-23.28187,-49.34723,Média,5.46,47.5,1963,Bem drenado,Schinus terebinthifolius,2
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.29375,-49.34634,Média,5.46,47.5,1963,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.27771,-49.34273,Média,5.46,47.5,1963,Bem drenado,Casearia sylvestris,1
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.29058,-49.34786,Média,5.46,47.5,1963,Bem drenado,Peltophorum dubium,1
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.28474,-49.33446,Média,5.46,47.5,1963,Bem drenado,Cecropia pachystachya,1
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.28314,-49.35655,Média,5.46,47.5,1963,Bem drenado,Trema micrantha,2
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.29419,-49.34223,Média,5.46,47.5,1963,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.28477,-49.34611,Média,5.46,47.5,1963,Bem drenado,Cedrela fissilis,2
+CONGLOM_021,CONGLOM_021_SUB3,Cerrado,-23.29492,-49.34447,Média,5.46,47.5,1963,Bem drenado,Schinus terebinthifolia,3
+CONGLOM_021,CONGLOM_021_SUB4,Cerrado,-23.28471,-49.3433,Média,5.46,47.5,1963,Bem drenado,Inga vera,4
+CONGLOM_021,CONGLOM_021_SUB4,Cerrado,-23.28516,-49.34602,Média,5.46,47.5,1963,Bem drenado,Cecropia pachystachya,3
+CONGLOM_021,CONGLOM_021_SUB4,Cerrado,-23.28667,-49.34311,Média,5.46,47.5,1963,Bem drenado,Trema micrantha,1
+CONGLOM_021,CONGLOM_021_SUB4,Cerrado,-23.28459,-49.3408,Média,5.46,47.5,1963,Bem drenado,Cedrela fissilis,4
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.70719,-43.50641,Argilosa,4.79,35.7,1684,Bem drenado,Schinus terebinthifolia,2
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.7127,-43.50558,Argilosa,4.79,35.7,1684,Bem drenado,Inga vera,1
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.71114,-43.4999,Argilosa,4.79,35.7,1684,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.71905,-43.50354,Argilosa,4.79,35.7,1684,Bem drenado,Cecropia pachystachya,14
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.71594,-43.51399,Argilosa,4.79,35.7,1684,Bem drenado,Casearia sylvestris,1
+CONGLOM_022,CONGLOM_022_SUB1,Cerrado,-23.71269,-43.51766,Argilosa,4.79,35.7,1684,Bem drenado,Myrsine coriacea,1
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70738,-43.49936,Argilosa,4.79,35.7,1684,Bem drenado,Inga vera,1
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70591,-43.50351,Argilosa,4.79,35.7,1684,Bem drenado,Croton floribundus,4
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70762,-43.51094,Argilosa,4.79,35.7,1684,Bem drenado,Trema micrantha,2
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.71327,-43.50399,Argilosa,4.79,35.7,1684,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70819,-43.50432,Argilosa,4.79,35.7,1684,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70696,-43.49943,Argilosa,4.79,35.7,1684,Bem drenado,Casearia sylvestris,6
+CONGLOM_022,CONGLOM_022_SUB2,Cerrado,-23.70872,-43.50193,Argilosa,4.79,35.7,1684,Bem drenado,Cecropia pachystachya,3
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.70496,-43.50233,Argilosa,4.79,35.7,1684,Bem drenado,Peltophorum dubium,5
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.71487,-43.50543,Argilosa,4.79,35.7,1684,Bem drenado,Cecropia pachystachya,2
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.70684,-43.50694,Argilosa,4.79,35.7,1684,Bem drenado,Schinus terebinthifolius,2
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.70152,-43.49454,Argilosa,4.79,35.7,1684,Bem drenado,Casearia sylvestris,2
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.71373,-43.50296,Argilosa,4.79,35.7,1684,Bem drenado,Croton floribundus,3
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.7104,-43.50018,Argilosa,4.79,35.7,1684,Bem drenado,Schinus terebinthifolia,2
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.70447,-43.50415,Argilosa,4.79,35.7,1684,Bem drenado,Trema micrantha,1
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.7066,-43.50399,Argilosa,4.79,35.7,1684,Bem drenado,Cedrela fissilis,1
+CONGLOM_022,CONGLOM_022_SUB3,Cerrado,-23.70597,-43.50255,Argilosa,4.79,35.7,1684,Bem drenado,Guazuma ulmifolia,2
+CONGLOM_022,CONGLOM_022_SUB4,Cerrado,-23.71646,-43.50825,Argilosa,4.79,35.7,1684,Bem drenado,Eugenia uniflora,4
+CONGLOM_022,CONGLOM_022_SUB4,Cerrado,-23.71187,-43.49847,Argilosa,4.79,35.7,1684,Bem drenado,Cedrela fissilis,2
+CONGLOM_022,CONGLOM_022_SUB4,Cerrado,-23.7085,-43.50855,Argilosa,4.79,35.7,1684,Bem drenado,Schinus terebinthifolius,3
+CONGLOM_022,CONGLOM_022_SUB4,Cerrado,-23.69742,-43.51252,Argilosa,4.79,35.7,1684,Bem drenado,Cecropia pachystachya,4
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.68408,-47.96254,Média,6.55,66.7,1546,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.66909,-47.95117,Média,6.55,66.7,1546,Bem drenado,Eugenia uniflora,1
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.67465,-47.96052,Média,6.55,66.7,1546,Bem drenado,Casearia sylvestris,3
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.67739,-47.95037,Média,6.55,66.7,1546,Bem drenado,Peltophorum dubium,2
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.66823,-47.94841,Média,6.55,66.7,1546,Bem drenado,Cedrela fissilis,2
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.67732,-47.96981,Média,6.55,66.7,1546,Bem drenado,Balfourodendron riedelianum,2
+CONGLOM_023,CONGLOM_023_SUB1,Cerrado,-24.67231,-47.95547,Média,6.55,66.7,1546,Bem drenado,Cecropia pachystachya,5
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.67076,-47.94846,Média,6.55,66.7,1546,Bem drenado,Guazuma ulmifolia,3
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.6738,-47.96027,Média,6.55,66.7,1546,Bem drenado,Cedrela fissilis,1
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.673,-47.95956,Média,6.55,66.7,1546,Bem drenado,Schinus terebinthifolia,3
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.67106,-47.9528,Média,6.55,66.7,1546,Bem drenado,Cecropia pachystachya,2
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.66805,-47.95089,Média,6.55,66.7,1546,Bem drenado,Croton floribundus,1
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.68072,-47.93985,Média,6.55,66.7,1546,Bem drenado,Trema micrantha,5
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.67461,-47.96092,Média,6.55,66.7,1546,Bem drenado,Handroanthus heptaphyllus,2
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.67506,-47.95134,Média,6.55,66.7,1546,Bem drenado,Myrsine coriacea,1
+CONGLOM_023,CONGLOM_023_SUB2,Cerrado,-24.67815,-47.95592,Média,6.55,66.7,1546,Bem drenado,Inga vera,3
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.67267,-47.95919,Média,6.55,66.7,1546,Bem drenado,Schinus terebinthifolius,6
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.67438,-47.95479,Média,6.55,66.7,1546,Bem drenado,Balfourodendron riedelianum,1
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.6784,-47.95615,Média,6.55,66.7,1546,Bem drenado,Myrsine coriacea,2
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.6741,-47.95362,Média,6.55,66.7,1546,Bem drenado,Croton floribundus,9
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.67685,-47.9589,Média,6.55,66.7,1546,Bem drenado,Trema micrantha,7
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.67912,-47.95869,Média,6.55,66.7,1546,Bem drenado,Cedrela fissilis,1
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.67827,-47.95659,Média,6.55,66.7,1546,Bem drenado,Inga vera,2
+CONGLOM_023,CONGLOM_023_SUB3,Cerrado,-24.68433,-47.95748,Média,6.55,66.7,1546,Bem drenado,Eugenia uniflora,1
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.67156,-47.94766,Média,6.55,66.7,1546,Bem drenado,Inga vera,6
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.66826,-47.95574,Média,6.55,66.7,1546,Bem drenado,Trema micrantha,1
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.67524,-47.95567,Média,6.55,66.7,1546,Bem drenado,Schinus terebinthifolius,1
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.67602,-47.95422,Média,6.55,66.7,1546,Bem drenado,Cedrela fissilis,2
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.68014,-47.96208,Média,6.55,66.7,1546,Bem drenado,Myrsine coriacea,3
+CONGLOM_023,CONGLOM_023_SUB4,Cerrado,-24.67267,-47.96536,Média,6.55,66.7,1546,Bem drenado,Peltophorum dubium,1
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.54155,-45.18776,Argilosa,4.6,26.9,1718,Úmido,Eugenia uniflora,1
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.54805,-45.19266,Argilosa,4.6,26.9,1718,Úmido,Myrsine coriacea,1
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.53827,-45.18718,Argilosa,4.6,26.9,1718,Úmido,Balfourodendron riedelianum,3
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.55985,-45.18207,Argilosa,4.6,26.9,1718,Úmido,Casearia sylvestris,1
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.54828,-45.19187,Argilosa,4.6,26.9,1718,Úmido,Guazuma ulmifolia,3
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.55391,-45.18996,Argilosa,4.6,26.9,1718,Úmido,Schinus terebinthifolia,1
+CONGLOM_024,CONGLOM_024_SUB1,Cerrado,-20.5521,-45.18222,Argilosa,4.6,26.9,1718,Úmido,Cecropia pachystachya,1
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.54735,-45.18404,Argilosa,4.6,26.9,1718,Úmido,Schinus terebinthifolia,2
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.55487,-45.18298,Argilosa,4.6,26.9,1718,Úmido,Peltophorum dubium,1
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.55117,-45.18369,Argilosa,4.6,26.9,1718,Úmido,Croton floribundus,1
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.54669,-45.18024,Argilosa,4.6,26.9,1718,Úmido,Cecropia pachystachya,1
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.55007,-45.19231,Argilosa,4.6,26.9,1718,Úmido,Myrsine coriacea,4
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.54952,-45.19093,Argilosa,4.6,26.9,1718,Úmido,Schinus terebinthifolius,2
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.55264,-45.19005,Argilosa,4.6,26.9,1718,Úmido,Trema micrantha,6
+CONGLOM_024,CONGLOM_024_SUB2,Cerrado,-20.56055,-45.19699,Argilosa,4.6,26.9,1718,Úmido,Handroanthus heptaphyllus,6
+CONGLOM_024,CONGLOM_024_SUB3,Cerrado,-20.54371,-45.18263,Argilosa,4.6,26.9,1718,Úmido,Cecropia pachystachya,2
+CONGLOM_024,CONGLOM_024_SUB3,Cerrado,-20.55545,-45.18312,Argilosa,4.6,26.9,1718,Úmido,Trema micrantha,1
+CONGLOM_024,CONGLOM_024_SUB3,Cerrado,-20.54169,-45.18727,Argilosa,4.6,26.9,1718,Úmido,Guazuma ulmifolia,3
+CONGLOM_024,CONGLOM_024_SUB3,Cerrado,-20.55649,-45.18232,Argilosa,4.6,26.9,1718,Úmido,Cedrela fissilis,1
+CONGLOM_024,CONGLOM_024_SUB4,Cerrado,-20.55344,-45.18912,Argilosa,4.6,26.9,1718,Úmido,Handroanthus heptaphyllus,3
+CONGLOM_024,CONGLOM_024_SUB4,Cerrado,-20.55161,-45.1801,Argilosa,4.6,26.9,1718,Úmido,Myrsine coriacea,2
+CONGLOM_024,CONGLOM_024_SUB4,Cerrado,-20.54774,-45.18862,Argilosa,4.6,26.9,1718,Úmido,Balfourodendron riedelianum,4
+CONGLOM_024,CONGLOM_024_SUB4,Cerrado,-20.54594,-45.17714,Argilosa,4.6,26.9,1718,Úmido,Croton floribundus,1
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.92079,-47.4037,Argilosa,4.54,65.5,1677,Úmido,Handroanthus heptaphyllus,3
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.92347,-47.39875,Argilosa,4.54,65.5,1677,Úmido,Myrsine coriacea,7
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.92075,-47.39406,Argilosa,4.54,65.5,1677,Úmido,Balfourodendron riedelianum,1
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.93057,-47.40782,Argilosa,4.54,65.5,1677,Úmido,Inga vera,11
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.93333,-47.40338,Argilosa,4.54,65.5,1677,Úmido,Cecropia pachystachya,1
+CONGLOM_025,CONGLOM_025_SUB1,Cerrado,-20.92747,-47.40719,Argilosa,4.54,65.5,1677,Úmido,Cedrela fissilis,1
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.91475,-47.40328,Argilosa,4.54,65.5,1677,Úmido,Cecropia pachystachya,1
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.9228,-47.39381,Argilosa,4.54,65.5,1677,Úmido,Balfourodendron riedelianum,4
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.9223,-47.39792,Argilosa,4.54,65.5,1677,Úmido,Schinus terebinthifolius,6
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.92988,-47.39268,Argilosa,4.54,65.5,1677,Úmido,Trema micrantha,1
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.92648,-47.39845,Argilosa,4.54,65.5,1677,Úmido,Schinus terebinthifolia,2
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.92925,-47.40446,Argilosa,4.54,65.5,1677,Úmido,Croton floribundus,3
+CONGLOM_025,CONGLOM_025_SUB2,Cerrado,-20.92931,-47.41084,Argilosa,4.54,65.5,1677,Úmido,Eugenia uniflora,1
+CONGLOM_025,CONGLOM_025_SUB3,Cerrado,-20.93416,-47.39455,Argilosa,4.54,65.5,1677,Úmido,Peltophorum dubium,3
+CONGLOM_025,CONGLOM_025_SUB3,Cerrado,-20.92492,-47.4027,Argilosa,4.54,65.5,1677,Úmido,Handroanthus heptaphyllus,2
+CONGLOM_025,CONGLOM_025_SUB3,Cerrado,-20.9248,-47.39604,Argilosa,4.54,65.5,1677,Úmido,Trema micrantha,1
+CONGLOM_025,CONGLOM_025_SUB3,Cerrado,-20.91817,-47.41167,Argilosa,4.54,65.5,1677,Úmido,Guazuma ulmifolia,3
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.91755,-47.39841,Argilosa,4.54,65.5,1677,Úmido,Cecropia pachystachya,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.92301,-47.39102,Argilosa,4.54,65.5,1677,Úmido,Inga vera,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.92384,-47.40763,Argilosa,4.54,65.5,1677,Úmido,Eugenia uniflora,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.92546,-47.39917,Argilosa,4.54,65.5,1677,Úmido,Schinus terebinthifolius,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.9272,-47.39198,Argilosa,4.54,65.5,1677,Úmido,Balfourodendron riedelianum,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.93221,-47.39815,Argilosa,4.54,65.5,1677,Úmido,Trema micrantha,1
+CONGLOM_025,CONGLOM_025_SUB4,Cerrado,-20.91972,-47.40378,Argilosa,4.54,65.5,1677,Úmido,Cedrela fissilis,3
