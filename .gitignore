@@ -43,8 +43,7 @@ Thumbs.db
 ehthumbs.db
 Desktop.ini
 
-# IDEs
-.vscode/
-.idea/
-*.sublime-project
-*.sublime-workspace
+# Heavy Raw Data Files (> 50MB)
+*.zip
+data/raw/jbrj_dwca/
+data/raw/*.zip
