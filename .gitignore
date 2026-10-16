@@ -45,5 +45,6 @@ Desktop.ini
 
 # Heavy Raw Data Files (> 50MB)
 *.zip
-data/raw/jbrj_dwca/
-data/raw/*.zip
+**/data/raw/
+**/jbrj_dwca/
+data/raw/

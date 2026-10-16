@@ -66,9 +66,9 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 4855632372,Guarea guidonia,Meliaceae,Guarea,-1.469167,-48.445555,2011.0,Pará,PRESERVED_SPECIMEN,Guarea guidonia,Nome_Original,True,-1.4500000000000002,-48.45
 1947780236,Trichilia pallida,Meliaceae,Trichilia,-25.0167,-50.8667,1982.0,Paraná,PRESERVED_SPECIMEN,Trichilia pallida,Nome_Original,True,-25.0,-50.85
 1947780258,Cedrela fissilis,Meliaceae,Cedrela,-13.2671,-39.6614,1982.0,Paraná,PRESERVED_SPECIMEN,Cedrela fissilis,Nome_Original,True,-13.25,-39.650000000000006
-1571534539,Cabralea canjerana,Meliaceae,Cabralea,-21.316667,-44.983333,,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-21.3,-45.0
 5889116227,Trichilia silvatica,Meliaceae,Trichilia,-23.365992,-45.084232,2006.0,,HUMAN_OBSERVATION,Trichilia silvatica,Nome_Original,True,-23.35,-45.1
 5889130472,Guarea macrophylla,Meliaceae,Guarea,-23.325442,-45.069415,2007.0,,HUMAN_OBSERVATION,Guarea macrophylla,Nome_Original,True,-23.35,-45.050000000000004
+1571534539,Cabralea canjerana,Meliaceae,Cabralea,-21.316667,-44.983333,,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-21.3,-45.0
 1947780809,Trichilia catigua,Meliaceae,Trichilia,-25.0167,-50.8667,1982.0,Paraná,PRESERVED_SPECIMEN,Trichilia catigua,Nome_Original,True,-25.0,-50.85
 3467171190,Guarea gomma,Meliaceae,Guarea,-8.15,-70.0,1933.0,,PRESERVED_SPECIMEN,Guarea gomma,Nome_Original,True,-8.15,-70.0
 5889124225,Cedrela odorata,Meliaceae,Cedrela,-23.334384,-44.832505,2006.0,,HUMAN_OBSERVATION,Cedrela odorata,Nome_Original,True,-23.35,-44.85
@@ -78,18 +78,18 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 5889110971,Cabralea canjerana,Meliaceae,Cabralea,-23.325442,-45.069415,2007.0,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-23.35,-45.050000000000004
 3027988659,Trichilia claussenii,Meliaceae,Trichilia,-21.1232,-56.7208,2017.0,Mato Grosso do Sul,MATERIAL_SAMPLE,Trichilia claussenii,Nome_Original,True,-21.1,-56.7
 5889122876,Trichilia silvatica,Meliaceae,Trichilia,-23.335476,-44.83338,2006.0,,HUMAN_OBSERVATION,Trichilia silvatica,Nome_Original,True,-23.35,-44.85
-1571535626,Cedrela fissilis,Meliaceae,Cedrela,-21.316667,-44.983333,2001.0,,HUMAN_OBSERVATION,Cedrela fissilis,Nome_Original,True,-21.3,-45.0
 1304180528,Piper peltatum,Piperaceae,Piper,-9.503056,-55.809722,,Mato Grosso,OCCURRENCE,Piper peltatum,Nome_Original,True,-9.5,-55.800000000000004
 1302804168,Piper javariense,Piperaceae,Piper,-9.598333,-55.936667,,Mato Grosso,OCCURRENCE,Piper javariense,Nome_Original,True,-9.600000000000001,-55.95
 1304184222,Theobroma subincanum,Malvaceae,Theobroma,-9.648056,-55.492222,,Mato Grosso,OCCURRENCE,Theobroma subincanum,Nome_Original,True,-9.65,-55.5
+1571535626,Cedrela fissilis,Meliaceae,Cedrela,-21.316667,-44.983333,2001.0,,HUMAN_OBSERVATION,Cedrela fissilis,Nome_Original,True,-21.3,-45.0
 5889113112,Cabralea canjerana,Meliaceae,Cabralea,-23.381418,-45.079331,2006.0,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-23.400000000000002,-45.1
 3467377428,Guarea kunthiana,Meliaceae,Guarea,-9.33,-69.0,1933.0,,PRESERVED_SPECIMEN,Guarea kunthiana,Nome_Original,True,-9.35,-69.0
 1947780522,Cabralea canjerana,Meliaceae,Cabralea,-24.723,-47.8596,1982.0,São Paulo,PRESERVED_SPECIMEN,Cabralea canjerana,Nome_Original,True,-24.700000000000003,-47.85
 4415952038,Guarea guidonia,Meliaceae,Guarea,-1.455833,-48.490278,2011.0,Pará,PRESERVED_SPECIMEN,Guarea guidonia,Nome_Original,True,-1.4500000000000002,-48.5
 5889118678,Cabralea canjerana,Meliaceae,Cabralea,-23.373916,-45.08071,2006.0,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-23.35,-45.1
 5889112812,Trichilia lepidota,Meliaceae,Trichilia,-23.337271,-44.834896,2005.0,,HUMAN_OBSERVATION,Trichilia lepidota,Nome_Original,True,-23.35,-44.85
-1947780212,Trichilia elegans,Meliaceae,Trichilia,-21.4679,-44.1904,1983.0,Paraná,PRESERVED_SPECIMEN,Trichilia elegans,Nome_Original,True,-21.450000000000003,-44.2
 3028059260,Trichilia stellatotomentosa,Meliaceae,Trichilia,-20.7551,-56.6305,2017.0,Mato Grosso do Sul,MATERIAL_SAMPLE,Trichilia stellatotomentosa,Nome_Original,False,-20.75,-56.650000000000006
+1947780212,Trichilia elegans,Meliaceae,Trichilia,-21.4679,-44.1904,1983.0,Paraná,PRESERVED_SPECIMEN,Trichilia elegans,Nome_Original,True,-21.450000000000003,-44.2
 5889127667,Trichilia lepidota,Meliaceae,Trichilia,-23.367004,-45.083509,2007.0,,HUMAN_OBSERVATION,Trichilia lepidota,Nome_Original,True,-23.35,-45.1
 5889118675,Cabralea canjerana,Meliaceae,Cabralea,-23.334384,-44.832505,2006.0,,HUMAN_OBSERVATION,Cabralea canjerana,Nome_Original,True,-23.35,-44.85
 1314849528,Trichilia schomburgkii,Meliaceae,Trichilia,-1.728611,-48.873611,2013.0,Pará,PRESERVED_SPECIMEN,Trichilia schomburgkii,Nome_Original,True,-1.75,-48.85
@@ -358,8 +358,8 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 2576163203,Attalea osmantha,Arecaceae,Attalea,-10.773109,-53.08982,1886.0,,PRESERVED_SPECIMEN,Attalea osmantha,Nome_Original,False,-10.75,-53.1
 1057419141,Bactris concinna,Arecaceae,Bactris,-10.773109,-53.08982,1875.0,,PRESERVED_SPECIMEN,Bactris concinna,Nome_Original,True,-10.75,-53.1
 1056781172,Bactris major,Arecaceae,Bactris,-10.773109,-53.08982,,,PRESERVED_SPECIMEN,Bactris major,Nome_Original,True,-10.75,-53.1
-5053746301,Syagrus harleyi,Arecaceae,Syagrus,-18.080002,-43.079998,1995.0,Minas Gerais,MATERIAL_CITATION,Syagrus harleyi,Nome_Original,True,-18.1,-43.1
 2464800592,Dioscorea ovata,Dioscoreaceae,Dioscorea,-10.633361,-36.757639,2012.0,Sergipe,PRESERVED_SPECIMEN,Dioscorea ovata,Nome_Original,False,-10.65,-36.75
+5053746301,Syagrus harleyi,Arecaceae,Syagrus,-18.080002,-43.079998,1995.0,Minas Gerais,MATERIAL_CITATION,Syagrus harleyi,Nome_Original,True,-18.1,-43.1
 1228603849,Mauritiella aculeata,Arecaceae,Mauritiella,-12.0,-48.0,1969.0,Goiás,PRESERVED_SPECIMEN,Mauritiella aculeata,Nome_Original,True,-12.0,-48.0
 1228541615,Geonoma poiteauana,Arecaceae,Geonoma,-10.8339,-52.8731,1901.0,,PRESERVED_SPECIMEN,Geonoma poiteauana,Nome_Original,True,-10.850000000000001,-52.85
 2270691521,Bactris acanthocarpa,Arecaceae,Bactris,-13.8213,-39.1981,2008.0,Bahia,PRESERVED_SPECIMEN,Bactris acanthocarpa,Nome_Original,False,-13.8,-39.2
@@ -391,8 +391,8 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 5014738781,Mauritia flexuosa,Arecaceae,Mauritia,-16.07555,-56.553558,2018.0,,HUMAN_OBSERVATION,Mauritia flexuosa,Nome_Original,True,-16.1,-56.550000000000004
 5015385742,Roystonea regia,Arecaceae,Roystonea,-20.266062,-56.304588,2013.0,,HUMAN_OBSERVATION,Roystonea regia,Nome_Original,False,-20.25,-56.300000000000004
 5021534956,Cocos nucifera,Arecaceae,Cocos,-19.588499,-56.087017,2016.0,,HUMAN_OBSERVATION,Cocos nucifera,Nome_Original,False,-19.6,-56.1
-1571534430,Geonoma schottiana,Arecaceae,Geonoma,-21.316667,-44.983333,,,HUMAN_OBSERVATION,Geonoma schottiana,Nome_Original,True,-21.3,-45.0
 123012485,Syagrus petraea,Arecaceae,Syagrus,-20.7722,-54.7852,2001.0,Mato Grosso do Sul,PRESERVED_SPECIMEN,Syagrus petraea,Nome_Original,False,-20.75,-54.800000000000004
+1571534430,Geonoma schottiana,Arecaceae,Geonoma,-21.316667,-44.983333,,,HUMAN_OBSERVATION,Geonoma schottiana,Nome_Original,True,-21.3,-45.0
 5017600980,Cocos nucifera,Arecaceae,Cocos,-19.480291,-56.91893,2015.0,,HUMAN_OBSERVATION,Cocos nucifera,Nome_Original,False,-19.5,-56.900000000000006
 5014183897,Syagrus romanzoffiana,Arecaceae,Syagrus,-27.086687,-48.596527,1980.0,,HUMAN_OBSERVATION,Syagrus romanzoffiana,Nome_Original,True,-27.1,-48.6
 5027350053,Syagrus romanzoffiana,Arecaceae,Syagrus,-22.950607,-43.16391,1980.0,,HUMAN_OBSERVATION,Syagrus romanzoffiana,Nome_Original,True,-22.950000000000003,-43.150000000000006
@@ -553,11 +553,11 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 2997462411,Cariniana estrellensis,Lecythidaceae,Cariniana,-28.375,-49.291944,1949.0,Santa Catarina,PRESERVED_SPECIMEN,Cariniana estrellensis,Nome_Original,True,-28.400000000000002,-49.300000000000004
 2250320189,Corythophora alta,Lecythidaceae,Corythophora,-11.524631,-54.355206,,,MATERIAL_SAMPLE,Corythophora alta,Nome_Original,True,-11.5,-54.35
 2997976437,Cariniana estrellensis,Lecythidaceae,Cariniana,-25.28,-48.32,1967.0,Paraná,PRESERVED_SPECIMEN,Cariniana estrellensis,Nome_Original,True,-25.3,-48.300000000000004
-2331568917,Eschweilera tetrapetala,Lecythidaceae,Eschweilera,-5.020833,-42.595556,2018.0,Piauí,PRESERVED_SPECIMEN,Eschweilera tetrapetala,Nome_Original,True,-5.0,-42.6
 3028088897,Eschweilera ovata,Lecythidaceae,Eschweilera,-8.66,-35.13,2015.0,Pernambuco,MATERIAL_SAMPLE,Eschweilera ovata,Nome_Original,True,-8.65,-35.15
+2331568917,Eschweilera tetrapetala,Lecythidaceae,Eschweilera,-5.020833,-42.595556,2018.0,Piauí,PRESERVED_SPECIMEN,Eschweilera tetrapetala,Nome_Original,True,-5.0,-42.6
+2331568338,Eschweilera tetrapetala,Lecythidaceae,Eschweilera,-5.014722,-42.651111,2018.0,Piauí,PRESERVED_SPECIMEN,Eschweilera tetrapetala,Nome_Original,True,-5.0,-42.650000000000006
 2997948448,Couratari stellata,Lecythidaceae,Couratari,-2.416111,-59.745833,1988.0,Amazonas,PRESERVED_SPECIMEN,Couratari stellata,Nome_Original,True,-2.4000000000000004,-59.75
 2997465417,Cariniana estrellensis,Lecythidaceae,Cariniana,-27.07,-49.52,1956.0,Santa Catarina,PRESERVED_SPECIMEN,Cariniana estrellensis,Nome_Original,True,-27.05,-49.5
-2331568338,Eschweilera tetrapetala,Lecythidaceae,Eschweilera,-5.014722,-42.651111,2018.0,Piauí,PRESERVED_SPECIMEN,Eschweilera tetrapetala,Nome_Original,True,-5.0,-42.650000000000006
 1228162865,Eschweilera coriacea,Lecythidaceae,Eschweilera,-10.8339,-52.8731,,,PRESERVED_SPECIMEN,Eschweilera coriacea,Nome_Original,True,-10.850000000000001,-52.85
 2997972421,Cariniana estrellensis,Lecythidaceae,Cariniana,-28.25,-49.37,1951.0,Santa Catarina,PRESERVED_SPECIMEN,Cariniana estrellensis,Nome_Original,True,-28.25,-49.35
 2997368807,Bertholletia excelsa,Lecythidaceae,Bertholletia,-0.03,-67.27,1963.0,Amazonas,PRESERVED_SPECIMEN,Bertholletia excelsa,Nome_Original,True,-0.05,-67.25
@@ -1007,6 +1007,7 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 1314846336,Eschweilera amazonica,Lecythidaceae,Eschweilera,-4.883333,-65.230278,2005.0,Amazonas,PRESERVED_SPECIMEN,Eschweilera amazonica,Nome_Original,True,-4.9,-65.25
 4454178313,Lecythis lurida,Lecythidaceae,Lecythis,-1.383412,-48.40639,2021.0,Pará,PRESERVED_SPECIMEN,Lecythis lurida,Nome_Original,True,-1.4000000000000001,-48.400000000000006
 6499645578,Lecythis pisonis,Lecythidaceae,Lecythis,-15.766282,-47.882942,2020.0,Distrito Federal,HUMAN_OBSERVATION,Lecythis pisonis,Nome_Original,True,-15.75,-47.900000000000006
+5216781890,Lecythis pisonis,Lecythidaceae,Lecythis,0.040522,-51.056096,2025.0,Amapá,HUMAN_OBSERVATION,Lecythis pisonis,Nome_Original,True,0.05,-51.050000000000004
 3974445481,Sida spinosa,Malvaceae,Sida,-8.6821,-38.8084,2018.0,,MATERIAL_SAMPLE,Sida spinosa,Nome_Original,True,-8.700000000000001,-38.800000000000004
 3973404020,Malvastrum coromandelianum,Malvaceae,Malvastrum,-25.2394,-53.9551,2018.0,,MATERIAL_SAMPLE,Malvastrum coromandelianum,Nome_Original,True,-25.25,-53.95
 3973101559,Pouteria torta,Sapotaceae,Pouteria,-4.4254,-70.0713,2015.0,,MATERIAL_SAMPLE,Pouteria torta,Nome_Original,True,-4.45,-70.05
@@ -1071,14 +1072,14 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 416927477,Ficus citrifolia,Moraceae,Ficus,-27.13,-53.5,,Santa Catarina,PRESERVED_SPECIMEN,Ficus maxima,Sinonimo_Resolvido,True,-27.150000000000002,-53.5
 1057284966,Naucleopsis glabra,Moraceae,Naucleopsis,-10.773109,-53.08982,,,PRESERVED_SPECIMEN,Naucleopsis glabra,Nome_Original,True,-10.75,-53.1
 4953441107,Pseudolmedia laevigata,Moraceae,Pseudolmedia,-15.951667,-47.966389,2019.0,Distrito Federal,PRESERVED_SPECIMEN,Pseudolmedia laevigata,Nome_Original,True,-15.950000000000001,-47.95
-6131192049,Ficus lyrata,Moraceae,Ficus,-25.50309,-49.236817,2025.0,Paraná,HUMAN_OBSERVATION,Ficus lyrata,Nome_Original,False,-25.5,-49.25
 5053878265,Ficus guaranitica,Moraceae,Ficus,-25.561111,-54.020556,2019.0,Paraná,PRESERVED_SPECIMEN,Ficus guaranitica,Nome_Original,True,-25.55,-54.0
+6131192049,Ficus lyrata,Moraceae,Ficus,-25.50309,-49.236817,2025.0,Paraná,HUMAN_OBSERVATION,Ficus lyrata,Nome_Original,False,-25.5,-49.25
 5053878082,Morus nigra,Moraceae,Morus,-25.581944,-53.560833,2019.0,Paraná,PRESERVED_SPECIMEN,Morus nigra,Nome_Original,False,-25.6,-53.550000000000004
 416977335,Maclura tinctoria,Moraceae,Maclura,-27.12,-53.42,,Santa Catarina,PRESERVED_SPECIMEN,Maclura tinctoria,Nome_Original,True,-27.1,-53.400000000000006
 4075600800,Artocarpus heterophyllus,Moraceae,Artocarpus,-6.062214,-50.059486,2023.0,Pará,HUMAN_OBSERVATION,Artocarpus heterophyllus,Nome_Original,False,-6.050000000000001,-50.050000000000004
 5053878527,Ficus citrifolia,Moraceae,Ficus,-25.689167,-54.438611,2018.0,Paraná,PRESERVED_SPECIMEN,Ficus maxima,Sinonimo_Resolvido,True,-25.700000000000003,-54.45
-5053878929,Dorstenia tenuis,Moraceae,Dorstenia,-25.653889,-54.427222,2018.0,Paraná,PRESERVED_SPECIMEN,Dorstenia tenuis,Nome_Original,False,-25.650000000000002,-54.45
 5053881472,Ficus luschnathiana,Moraceae,Ficus,-25.613889,-54.481111,2019.0,Paraná,PRESERVED_SPECIMEN,Ficus luschnathiana,Nome_Original,True,-25.6,-54.5
+5053878929,Dorstenia tenuis,Moraceae,Dorstenia,-25.653889,-54.427222,2018.0,Paraná,PRESERVED_SPECIMEN,Dorstenia tenuis,Nome_Original,False,-25.650000000000002,-54.45
 4855438191,Ficus carica,Moraceae,Ficus,-25.443511,-49.354581,2023.0,Paraná,HUMAN_OBSERVATION,Ficus carica,Nome_Original,False,-25.450000000000003,-49.35
 3319219301,Dorstenia acangatara,Moraceae,Dorstenia,-19.73639,-41.821667,2000.0,Minas Gerais,MATERIAL_CITATION,Dorstenia acangatara,Nome_Original,False,-19.75,-41.800000000000004
 5013415005,Ficus aurea,Moraceae,Ficus,-19.496693,-56.9557,2013.0,,HUMAN_OBSERVATION,Ficus aurea,Nome_Original,False,-19.5,-56.95
@@ -1306,9 +1307,9 @@ gbif_id,scientificName_raw,family_gbif,genus_gbif,latitude,longitude,ano_coleta,
 5837789233,Callisthene major,Vochysiaceae,Callisthene,-14.186746,-47.603296,2025.0,Goiás,HUMAN_OBSERVATION,Callisthene major,Nome_Original,True,-14.200000000000001,-47.6
 4872497527,Vochysia thyrsoidea,Vochysiaceae,Vochysia,-21.306002,-44.655999,2024.0,Minas Gerais,HUMAN_OBSERVATION,Vochysia thyrsoidea,Nome_Original,True,-21.3,-44.650000000000006
 6479296371,Vochysia elliptica,Vochysiaceae,Vochysia,-19.44365,-43.636332,2026.0,Minas Gerais,HUMAN_OBSERVATION,Vochysia elliptica,Nome_Original,True,-19.450000000000003,-43.650000000000006
+3028026724,Qualea grandiflora,Vochysiaceae,Qualea,-20.7551,-56.6305,2017.0,Mato Grosso do Sul,MATERIAL_SAMPLE,Qualea grandiflora,Nome_Original,True,-20.75,-56.650000000000006
 2311282335,Vochysia thyrsoidea,Vochysiaceae,Vochysia,-15.677222,-47.862778,2019.0,Distrito Federal,HUMAN_OBSERVATION,Vochysia thyrsoidea,Nome_Original,True,-15.700000000000001,-47.85
 6179081125,Vochysia cinnamomea,Vochysiaceae,Vochysia,-20.156792,-47.27738,2025.0,São Paulo,HUMAN_OBSERVATION,Vochysia cinnamomea,Nome_Original,True,-20.150000000000002,-47.300000000000004
-3028026724,Qualea grandiflora,Vochysiaceae,Qualea,-20.7551,-56.6305,2017.0,Mato Grosso do Sul,MATERIAL_SAMPLE,Qualea grandiflora,Nome_Original,True,-20.75,-56.650000000000006
 4034793360,Qualea parviflora,Vochysiaceae,Qualea,-15.820247,-47.81568,2020.0,Distrito Federal,HUMAN_OBSERVATION,Qualea parviflora,Nome_Original,True,-15.8,-47.800000000000004
 6171406498,Vochysia elliptica,Vochysiaceae,Vochysia,-14.176672,-47.510658,2025.0,Goiás,HUMAN_OBSERVATION,Vochysia elliptica,Nome_Original,True,-14.200000000000001,-47.5
 5936086290,Vochysia pumila,Vochysiaceae,Vochysia,-15.483418,-47.612092,2018.0,Goiás,HUMAN_OBSERVATION,Vochysia pumila,Nome_Original,True,-15.5,-47.6

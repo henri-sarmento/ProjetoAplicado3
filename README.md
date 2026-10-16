@@ -17,9 +17,9 @@
 
 | Nome | TIA |
 | :--- | :---: |
-| **Fernanda Pauli de Oliveira** | 10736757 | 
-| **Henrique Sarmento** | 10738262 | 
-| **Milena Dias Gouveia** | 10746541 | 
+| **Fernanda Pauli de Oliveira** | 10736757 |
+| **Henrique Sarmento** | 10738262 |
+| **Milena Dias Gouveia** | 10746541 |
 | **Nicolly Falcão da Silva** | 10746134 |
 
 ---
@@ -43,7 +43,7 @@ Desenvolver um **Sistema de Recomendação Inteligente Top-$K$** que atue como p
 
 Para unir rigor botânico e capacidade preditiva, adotou-se uma arquitetura sequencial em cascata (**Two-Stage Cascade Hybrid Recommender**), articulando a teoria ecológica do nicho às técnicas de recuperação de informação e fatoração de matrizes acelerada por GPU:
 
-```
+```text
 +-----------------------------------------------------------------------------------------+
 |                    ENTRADA: PERFIL EDAFOCLIMÁTICO DO TERRENO (u)                        |
 |           (Bioma, Textura do Solo, pH em H2O, V%, Alumínio, Pluviosidade Anual)          |
@@ -81,34 +81,44 @@ Para unir rigor botânico e capacidade preditiva, adotou-se uma arquitetura sequ
 
 ---
 
-## 🗂️ 3. Estrutura Oficial do Repositório (100% Autocontida em Notebooks)
+## 🗂️ 3. Estrutura Oficial do Repositório (Organizada por Etapas e 100% em Notebooks)
 
-O projeto adota uma arquitetura **100% autocontida em Jupyter Notebooks** para máxima transparência e facilidade de reprodução célula a célula, sem dispersão de código em módulos `.py` intermediários:
+O repositório organiza todas as entregas por etapa acadêmica (`Etapa 1/`, `Etapa 2/`, `Etapa 3/`) e adota uma arquitetura **100% autocontida em Jupyter Notebooks** na Etapa 3 para máxima transparência e facilidade de reprodução célula a célula, sem dispersão de código em módulos `.py` intermediários:
 
-```
+```text
 ProjetoAplicado3/
-├── data/
-│   ├── raw/                            # Dados massivos baixados programaticamente
-│   │   ├── lista_especies_flora_brasil.zip  # DwC-A oficial do JBRJ (20.4 MB)
-│   │   ├── jbrj_dwca/                  # Arquivos descompactados (taxon.txt, distribution.txt, speciesprofile.txt)
-│   │   ├── gbif_occurrences_raw.csv    # 31.500 ocorrências requisitadas via API do GBIF
-│   │   └── ifn_parcelas_raw.csv        # Malha de 2.400 parcelas amostrais do IFN
-│   ├── processed/                      # Datasets saneados com resolução taxonômica oficial
-│   │   ├── flora_brasil_processed.csv  # 18.692 espécies nativas aceitas e 66.067 sinônimos
-│   │   ├── ifn_parcelas_processed.csv  # 2.400 parcelas, 1.800 espécies e 43.200 interações (esparsidade 99.00%)
-│   │   ├── gbif_thinned_processed.csv  # 9.133 ocorrências após spatial thinning 5 km
-│   │   ├── avaliacao_comparativa_topk.png # Gráfico comparativo Top-K (P, R, NDCG, ILD)
-│   │   └── sensibilidade_beta_ndcg_ild.png# Curva de trade-off NDCG@10 vs. ILD@10
-│   └── sample/                         # Amostras leves e ricas para validação rápida
-│       ├── flora_brasil_sample.csv
-│       ├── ifn_parcelas_sample.csv
-│       └── gbif_occurrences_sample.csv
-├── notebooks/                          # Pipeline 100% autocontido e executável
-│   ├── 01_aquisicao_exploracao_limpeza_dados.ipynb # Ingestão, resolução taxonômica, EDA e saneamento
-│   └── 02_pipeline_modelagem_recomendador.ipynb    # Modelos (CBF, GPU-ALS, Híbrido), avaliação Top-K e inferência
-├── requirements.txt                    # Dependências com PyTorch CUDA (torch>=2.0.0, pandas, etc.)
-└── README.md                           # Documentação técnica central
+├── Etapa 1/
+│   └── Etapa 1 - ABNT.docx                                 # Entrega consolidada da Etapa 1
+├── Etapa 2/
+│   ├── Etapa 2 - ABNT.docx                                 # Entrega consolidada da Etapa 2
+│   └── Etapa 2 - ABNT.pdf
+├── Etapa 3/                                                # Entrega completa e centralizada da Etapa 3
+│   ├── data/
+│   │   ├── sample/                                         # Amostras leves e ricas (~4.5 MB) para validação rápida
+│   │   │   ├── flora_brasil_sample.csv
+│   │   │   ├── gbif_occurrences_sample.csv
+│   │   │   └── ifn_parcelas_sample.csv
+│   │   └── processed/                                      # Gráficos gerados em alta resolução (300 DPI)
+│   │       ├── eda_riqueza_biomas.png
+│   │       ├── eda_solos_chuva.png
+│   │       ├── eda_sucessao_frequencia.png
+│   │       ├── eda_spatial_thinning_mapa.png
+│   │       ├── avaliacao_comparativa_topk.png
+│   │       └── sensibilidade_beta_ndcg_ild.png
+│   ├── notebooks/                                          # Pipeline 100% autocontido e executável
+│   │   ├── 01_aquisicao_exploracao_limpeza_dados.ipynb     # Ingestão (JBRJ, GBIF, IFN), EDA e saneamento
+│   │   └── 02_pipeline_modelagem_recomendador.ipynb        # Modelos (CBF, GPU-ALS, Híbrido), avaliação Top-K e ILD
+│   ├── figura2_pipeline_metodologia.png                    # Diagrama do Pipeline Geral (300 DPI)
+│   ├── figura3_arquitetura_hibrida_cascata.png             # Diagrama da Arquitetura em Cascata (300 DPI)
+│   ├── script etapa 3.md                                   # Documento-base em Markdown
+│   ├── plano_etapa3.md                                     # Plano diretor de QA e execução da Etapa 3
+│   └── Etapa 3 - ABNT.docx                                 # Documento oficial da Etapa 3 no padrão ABNT/Mackenzie
+├── .gitignore                                              # Bloqueio de arquivos brutos pesados (data/raw/, *.zip)
+├── requirements.txt                                        # Dependências com PyTorch CUDA (torch>=2.0.0, pandas, etc.)
+└── README.md                                               # Documentação técnica central
 ```
+
+> **Nota sobre Dados Brutos (`data/raw/`):** Os arquivos brutos pesados (~197 MB, incluindo o `lista_especies_flora_brasil.zip` de 20,4 MB e os 170 MB descompactados em `jbrj_dwca/`) são baixados e processados automaticamente pelo Notebook 01 na pasta local `Etapa 3/data/raw/` e permanecem ignorados pelo `.gitignore` para respeitar os limites do GitHub.
 
 ---
 
@@ -121,7 +131,7 @@ ProjetoAplicado3/
 | **Famílias Botânicas Representadas** | **194** | JBRJ |
 | **Gêneros Botânicos Representados** | **1.699** | JBRJ |
 | **Ocorrências Brutas de Campo com Coordenadas** | **11.657** | Global Biodiversity Information Facility (GBIF) |
-| **Ocorrências após Spatial Thinning (5 km)** | **9.133** | GBIF (Redução de 21,65% do viés amostral) |
+| **Ocorrências após Spatial Thinning (5 km)** | **9.134** | GBIF (Redução de 21,64% do viés amostral) |
 | **Total de Parcelas Amostrais ($|\mathcal{U}|$)** | **2.400** | Inventário Florestal Nacional (SFB / MAPA) |
 | **Total de Conglomerados Espaciais** | **600** | IFN / SFB (4 parcelas de $20 \times 20\text{ m}$ por conglomerado) |
 | **Total de Espécies com Ocorrência de Campo ($|\mathcal{I}|$)** | **1.800** | IFN / SFB |
@@ -133,12 +143,12 @@ ProjetoAplicado3/
 
 ## ⚡ 5. Aceleração por Hardware em GPU (NVIDIA GeForce RTX 3060)
 
-O algoritmo ALS com Feedback Implícito foi implementado nativamente com tensores PyTorch operando no dispositivo CUDA da placa de vídeo dedicada do autor:
+O algoritmo ALS com Feedback Implícito foi implementado nativamente com tensores PyTorch operando no dispositivo CUDA da placa de vídeo dedicada:
 * **GPU Detectada:** `NVIDIA GeForce RTX 3060` (12.00 GB VRAM, Compute Capability 8.6);
 * **Framework:** PyTorch 2.6.0+cu124;
 * **Resolução Matricial Paralela:** `torch.linalg.solve` aplicada simultaneamente sobre o espaço de fatores ($f = 32$);
-* **Tempo de Treinamento do ALS (8 épocas):** **33,96 segundos** sobre as 1.680 parcelas de treinamento;
-* **Tempo de Avaliação Comparativa:** **6,00 segundos** para computar o ranqueamento completo em 360 parcelas de teste cego.
+* **Tempo de Treinamento do ALS (8 épocas):** **10,55 segundos** sobre as 1.680 parcelas de treinamento;
+* **Tempo de Avaliação Comparativa:** **3,66 segundos** para computar o ranqueamento completo em 360 parcelas de teste cego.
 
 ---
 
@@ -175,24 +185,19 @@ A avaliação experimental foi conduzida sob o protocolo de **Leave-$K$-Out** ($
 ### Instalação
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/usuario/ProjetoAplicado3.git
+git clone https://github.com/henri-sarmento/ProjetoAplicado3.git
 cd ProjetoAplicado3
 
-# 2. Criar e ativar ambiente virtual
-python -m venv venv
-venv\Scripts\activate  # No Windows
-# source venv/bin/activate  # No Linux/Mac
-
-# 3. Instalar dependências científicas
+# 2. Instalar dependências científicas
 pip install -r requirements.txt
 ```
 
 ### Execução dos Notebooks
 ```bash
-jupyter notebook notebooks/
+jupyter notebook "Etapa 3/notebooks/"
 ```
-1. Abra e execute o notebook `01_aquisicao_exploracao_limpeza_dados.ipynb` para baixar as bases reais, executar a resolução taxonômica e gerar as matrizes em `data/processed/`;
-2. Abra e execute o notebook `02_pipeline_modelagem_recomendador.ipynb` para rodar o treinamento acelerado em GPU e reproduzir exatamente a tabela de métricas Top-K e as inferências explicáveis.
+1. Abra e execute o notebook `01_aquisicao_exploracao_limpeza_dados.ipynb` para baixar as bases reais em `Etapa 3/data/raw/`, executar a resolução taxonômica e gerar as matrizes em `Etapa 3/data/processed/`;
+2. Abra e execute o notebook `02_pipeline_modelagem_recomendador.ipynb` para rodar o treinamento acelerado em GPU e reproduzir exatamente a tabela de métricas Top-$K$ e as inferências explicáveis.
 
 ---
 
