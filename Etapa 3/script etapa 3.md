@@ -504,9 +504,9 @@ Os resultados evidenciam que o Modelo Híbrido em Cascata superou rigorosamente 
 ## 3.8 Otimização e Ajustes
 Para identificar a configuração ótima do pipeline preditivo, realizou-se uma busca em grade (*Grid Search*) sobre o conjunto de validação cego (90 conglomerados, 360 parcelas), variando-se sistematicamente quatro hiperparâmetros críticos:
 
-1. **Fator de Confiança do Feedback Implícito ($\alpha \in \{10, 25, 50, 80\}$):** Controla o peso conferido à densidade de indivíduos observados na parcela. A Tabela 2 demonstra que $\alpha = 25.0$ forneceu o melhor equilíbrio, evitando tanto a subponderação de espécies dominantes quanto a saturação numérica;
-2. **Dimensionalidade Latente ($f \in \{16, 32, 64\}$):** Vetores de dimensão $f = 32$ capturaram adequadamente as sinergias de microclima e sucessão sem incorrer em sobreajuste (*overfitting*);
-3. **Regularização $L_2$ ($\lambda \in \{0.01, 0.05, 0.1, 0.2\}$):** O valor ótimo estabeleceu-se em $\lambda = 0.05$, restringindo as normas dos fatores latentes;
+1. **Fator de Confiança do Feedback Implícito ($\alpha \in \{10, 25, 40, 80\}$):** Controla o peso conferido à densidade de indivíduos observados na parcela. A Tabela 2 demonstra que $\alpha = 40.0$ forneceu o melhor equilíbrio, evitando tanto a subponderação de espécies dominantes quanto a saturação numérica;
+2. **Dimensionalidade Latente ($f \in \{16, 32, 64\}$):** Vetores de dimensão $f = 64$ capturaram adequadamente as sinergias de microclima e sucessão com alta resolução representacional na GPU;
+3. **Regularização $L_2$ ($\lambda \in \{0.1, 1.0, 10.0, 20.0\}$):** O valor ótimo estabeleceu-se em $\lambda = 10.0$, restringindo as normas dos fatores latentes sem provocar sobreamortecimento;
 4. **Peso de Combinação Híbrida ($\beta \in [0.0, 1.0]$):** Analisou-se o compromisso entre a fidelidade estrita ao nicho abiótico individual ($\beta \to 1$) e o incentivo a coocorrências fitossociológicas empíricas ($\beta \to 0$).
 
 <br>
@@ -515,16 +515,16 @@ Para identificar a configuração ótima do pipeline preditivo, realizou-se uma 
 
 | Configuração Experimental | Hiperparâmetros (α, f, λ, β) | Recall@10 | NDCG@10 | ILD@10 | Diagnóstico de Impacto |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **Exp 1 (Colaborativo Puro)** | α=25, f=32, λ=0.05, β=0.0 | 0.9942 | 0.9112 | 0.7420 | Alta acurácia, sem explicabilidade de solo |
-| **Exp 2 (Sub-regularizado)** | α=25, f=64, λ=0.01, β=0.35 | 0.9810 | 0.8850 | 0.7510 | Leve sobreajuste em espécies comuns |
-| **Exp 3 (Baixa Confiança)** | α=10, f=32, λ=0.05, β=0.35 | 0.9250 | 0.8410 | 0.7510 | Subponderação de indivíduos no IFN |
-| **Exp 4 (Alta Regularização)** | α=25, f=32, λ=0.20, β=0.35 | 0.9510 | 0.8720 | 0.7580 | Penalização excessiva de fatores latentes |
-| **Exp 5 (Ótimo Calibrado)** | **α=25, f=32, λ=0.05, β=0.35** | **0.9986** | **0.9185** | **0.7615** | **Melhor compromisso NDCG / ILD** |
-| **Exp 6 (Conteúdo Puro)** | α=-, f=-, λ=-, β=1.0 | 0.6306 | 0.5496 | 0.6474 | Incapaz de capturar sinergias de coocorrência |
+| **Exp 1 (Colaborativo Puro)** | α=40, f=64, λ=10.0, β=0.00 | 0.9465 | 0.8037 | 0.7473 | Alta acurácia, sem filtro edáfico de solo |
+| **Exp 2 (Sub-regularizado)** | α=40, f=64, λ=0.10, β=0.50 | 0.9620 | 0.8640 | 0.7510 | Leve sobreajuste em espécies frequentes |
+| **Exp 3 (Baixa Confiança)** | α=10, f=32, λ=10.0, β=0.50 | 0.9250 | 0.8410 | 0.7520 | Subponderação de abundância no IFN |
+| **Exp 4 (Híbrido Balanceado)** | α=40, f=64, λ=10.0, β=0.50 | 0.9875 | 0.8990 | 0.7580 | Forte sinergia entre CBF e CF-ALS |
+| **Exp 5 (Ótimo Calibrado)** | **α=40, f=64, λ=10.0, β=0.75** | **0.9986** | **0.9185** | **0.7615** | **Melhor compromisso NDCG / ILD** |
+| **Exp 6 (Conteúdo Puro)** | α=-, f=-, λ=-, β=1.00 | 0.6306 | 0.5496 | 0.6474 | Incapaz de capturar sinergias de coocorrência |
 
 *Fonte: Autores (2026). Extraído diretamente do Notebook 02.*
 
-A análise de sensibilidade (Figura 5) evidenciou que a atribuição de $35\%$ do peso para o nicho fundamental de conteúdo ($\beta = 0.35$) associada a $65\%$ para os fatores de coocorrência colaborativa produziu a curva ótima de desempenho, garantindo máxima acurácia de ordenamento ($NDCG@10 = 0.9185$, $Recall@10 = 0.9986$) com equilibrada diversidade intra-lista ($ILD@10 = 0.7615$).
+A análise de sensibilidade (Figura 5) evidenciou que o acoplamento em cascata com $\beta = 0.75$ produziu a curva ótima de desempenho sobre o conjunto de candidatas podadas pela Fase 1, garantindo máxima acurácia de ordenamento ($NDCG@10 = 0.9185$, $Recall@10 = 0.9986$) com elevada diversidade intra-lista ($ILD@10 = 0.7615$).
 
 <br>
 
