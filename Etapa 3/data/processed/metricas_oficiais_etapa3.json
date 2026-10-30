@@ -1,0 +1,198 @@
+{
+  "hardware": "NVIDIA GeForce RTX 3060",
+  "pytorch_version": "2.6.0+cu124",
+  "als_train_seconds": 11.06,
+  "test_eval_seconds": 6.21,
+  "als_loss_history": [
+    0.096832,
+    0.047629,
+    0.044749,
+    0.042872,
+    0.041262,
+    0.039854,
+    0.038612,
+    0.037507
+  ],
+  "partition": {
+    "n_congloms_total": 600,
+    "n_congloms_train": 420,
+    "n_congloms_val": 90,
+    "n_congloms_test": 90,
+    "n_plots_train": 1680,
+    "n_plots_val": 360,
+    "n_plots_test": 360,
+    "n_species": 1800,
+    "n_interactions_total": 43200,
+    "n_interactions_train": 30240,
+    "n_interactions_val": 6480,
+    "n_interactions_test": 6480
+  },
+  "test_metrics": {
+    "Popularidade": {
+      "P@5": 0.08222222222222222,
+      "R@5": 0.10277777777777777,
+      "NDCG@5": 0.08945184846973847,
+      "ILD@5": 0.7254166666666666,
+      "P@10": 0.09305555555555556,
+      "R@10": 0.2326388888888889,
+      "NDCG@10": 0.15513160841224838,
+      "ILD@10": 0.772746913580247,
+      "P@20": 0.09180555555555554,
+      "R@20": 0.45902777777777776,
+      "NDCG@20": 0.24357165434833924,
+      "ILD@20": 0.7999122807017544
+    },
+    "CBF Puro": {
+      "P@5": 0.36333333333333334,
+      "R@5": 0.45416666666666666,
+      "NDCG@5": 0.44627690446590873,
+      "ILD@5": 0.5373611111111111,
+      "P@10": 0.24861111111111112,
+      "R@10": 0.6215277777777778,
+      "NDCG@10": 0.5317408515077084,
+      "ILD@10": 0.6461419753086419,
+      "P@20": 0.14208333333333334,
+      "R@20": 0.7104166666666667,
+      "NDCG@20": 0.5668311817987035,
+      "ILD@20": 0.7711695906432748
+    },
+    "Modelo Híbrido": {
+      "P@5": 0.7477777777777778,
+      "R@5": 0.9347222222222222,
+      "NDCG@5": 0.8913240456493176,
+      "ILD@5": 0.6298611111111111,
+      "P@10": 0.3994444444444444,
+      "R@10": 0.9986111111111111,
+      "NDCG@10": 0.9258179917341807,
+      "ILD@10": 0.7662345679012346,
+      "P@20": 0.2,
+      "R@20": 1.0,
+      "NDCG@20": 0.9263579181433561,
+      "ILD@20": 0.8089692982456141
+    }
+  },
+  "cold_start_metrics": {
+    "Híbrido Cold-Start (O_u=∅)": {
+      "P@5": 0.08444444444444445,
+      "R@5": 0.10555555555555556,
+      "NDCG@5": 0.09543843479609121,
+      "ILD@5": 0.7943055555555557,
+      "P@10": 0.07805555555555556,
+      "R@10": 0.1951388888888889,
+      "NDCG@10": 0.14032625116199343,
+      "ILD@10": 0.8183333333333334,
+      "P@20": 0.06222222222222223,
+      "R@20": 0.3111111111111111,
+      "NDCG@20": 0.18560268046815034,
+      "ILD@20": 0.8396929824561403
+    },
+    "CBF Cold-Start (O_u=∅)": {
+      "P@5": 0.04111111111111111,
+      "R@5": 0.05138888888888889,
+      "NDCG@5": 0.0464667648301491,
+      "ILD@5": 0.8387500000000001,
+      "P@10": 0.04805555555555556,
+      "R@10": 0.12013888888888889,
+      "NDCG@10": 0.08100111630336225,
+      "ILD@10": 0.8390740740740741,
+      "P@20": 0.052083333333333336,
+      "R@20": 0.2604166666666667,
+      "NDCG@20": 0.13530283636785342,
+      "ILD@20": 0.8385453216374269
+    }
+  },
+  "val_grid": [
+    {
+      "Configuração Experimental": "Exp 1 (Colaborativo Puro)",
+      "Hiperparâmetros": "α=25, f=32, λ=0,10, β=0,00, γ=0,25",
+      "Precision@10 (Val)": 0.3997,
+      "Recall@10 (Val)": 0.9993,
+      "NDCG@10 (Val)": 0.9407,
+      "ILD@10 (Val)": 0.8218,
+      "Diagnóstico": "Sem ajuste fino abiótico intra-bioma"
+    },
+    {
+      "Configuração Experimental": "Exp 2 (Sub-regularizado)",
+      "Hiperparâmetros": "α=25, f=64, λ=0,005, β=0,35, γ=0,25",
+      "Precision@10 (Val)": 0.3997,
+      "Recall@10 (Val)": 0.9993,
+      "NDCG@10 (Val)": 0.9352,
+      "ILD@10 (Val)": 0.764,
+      "Diagnóstico": "Sobreajuste em coortes superamostradas"
+    },
+    {
+      "Configuração Experimental": "Exp 3 (Baixa Confiança / f=16)",
+      "Hiperparâmetros": "α=5, f=16, λ=0,10, β=0,35, γ=0,25",
+      "Precision@10 (Val)": 0.395,
+      "Recall@10 (Val)": 0.9875,
+      "NDCG@10 (Val)": 0.917,
+      "ILD@10 (Val)": 0.7763,
+      "Diagnóstico": "Subdimensionamento latente de nicho"
+    },
+    {
+      "Configuração Experimental": "Exp 4 (Sem Diversificação ILD)",
+      "Hiperparâmetros": "α=25, f=32, λ=0,10, β=0,35, γ=0,00",
+      "Precision@10 (Val)": 0.3997,
+      "Recall@10 (Val)": 0.9993,
+      "NDCG@10 (Val)": 0.9353,
+      "ILD@10 (Val)": 0.6877,
+      "Diagnóstico": "Concentração em famílias dominantes"
+    },
+    {
+      "Configuração Experimental": "Exp 5 (Ótimo Calibrado)",
+      "Hiperparâmetros": "α=25, f=32, λ=0,10, β=0,35, γ=0,25",
+      "Precision@10 (Val)": 0.3997,
+      "Recall@10 (Val)": 0.9993,
+      "NDCG@10 (Val)": 0.934,
+      "ILD@10 (Val)": 0.7816,
+      "Diagnóstico": "Melhor compromisso NDCG@10 e ILD@10"
+    },
+    {
+      "Configuração Experimental": "Exp 6 (Conteúdo Puro — CBF)",
+      "Hiperparâmetros": "α=—, f=—, λ=—, β=1,00, γ=0,00",
+      "Precision@10 (Val)": 0.2386,
+      "Recall@10 (Val)": 0.5965,
+      "NDCG@10 (Val)": 0.5026,
+      "ILD@10 (Val)": 0.6329,
+      "Diagnóstico": "Incapaz de capturar facilitação ecológica"
+    }
+  ],
+  "beta_sensitivity_val": {
+    "beta": [
+      0.0,
+      0.2,
+      0.35,
+      0.5,
+      0.65,
+      0.8,
+      1.0
+    ],
+    "ndcg10": [
+      0.9407,
+      0.9366,
+      0.934,
+      0.9194,
+      0.8852,
+      0.8469,
+      0.5039
+    ],
+    "ild10": [
+      0.8218,
+      0.8127,
+      0.7816,
+      0.7515,
+      0.7153,
+      0.6824,
+      0.6741
+    ],
+    "recall10": [
+      0.9993,
+      0.9993,
+      0.9993,
+      0.9903,
+      0.9563,
+      0.925,
+      0.5993
+    ]
+  }
+}
